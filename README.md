@@ -14,3 +14,6 @@ Start to use it from a peice of code, I only test it on the Windows7pro and Cent
 ----
 ## photo.reg
 切换回win7的传统‘图片浏览器’
+
+## CleanSVN.bat
+递归清理当前目录下的.svn目录
