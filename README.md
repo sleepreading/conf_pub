@@ -10,3 +10,7 @@ Start to use it from a peice of code, I only test it on the Windows7pro and Cent
 ----
 ## Examples
 ![windows7_examples](https://github.com/tianshiwokao/res/blob/master/20171118103002.png)
+
+----
+## photo.reg
+切换回win7的传统‘图片浏览器’
