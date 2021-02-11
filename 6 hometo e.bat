@@ -1,7 +1,7 @@
 @echo OFF
 setlocal EnableDelayedExpansion
 
-set homedsk=e:
+set homedsk=D:
 
 echo.
 echo --- Change Default User Home to "%homedsk%\home"

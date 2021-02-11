@@ -11,8 +11,6 @@ if %errorlevel%==0 (
     set osver=0
 )
 
-md d:\usr\bin d:\lib d:\opt d:\tmp >nul 2>nul
-
 echo.
 echo --- show some icons on desktop: 'My Compute' 'Network' ....
 ping -n 2 localhost>nul
@@ -56,11 +54,11 @@ ping -n 2 localhost>nul
 if %osver%==1 (
     reg add hkcr\Directory\Background\shellex\ContextMenuHandlers\Delete_File /v "" /t reg_sz /d {645FF040-5081-101B-9F08-00AA002F954E} /f >nul 2>nul
 ) else (
-    reg add hklm\Software\Classes\Directory\Background\shell\empty /v CommandStateHandler /t reg_sz /d {c9298eef-69dd-4cdd-b153-bdbc38486781} /f >nul 2>nul
-    reg add hklm\Software\Classes\Directory\Background\shell\empty /v Description /t reg_sz /d @shell32.dll,-31332 /f >nul 2>nul
-    reg add hklm\Software\Classes\Directory\Background\shell\empty /v Icon /t reg_sz /d shell32.dll,-254 /f >nul 2>nul
-    reg add hklm\Software\Classes\Directory\Background\shell\empty /v MUIVerb /t reg_sz /d @shell32.dll,-10564 /f >nul 2>nul
-    reg add hklm\Software\Classes\Directory\Background\shell\empty\command /v DelegateExecute /t reg_sz /d {48527bb3-e8de-450b-8910-8c4099cb8624} /f >nul 2>nul
+    reg add hklm\Software\Classes\Directory\Background\shell\Trash /v CommandStateHandler /t reg_sz /d {c9298eef-69dd-4cdd-b153-bdbc38486781} /f >nul 2>nul
+    reg add hklm\Software\Classes\Directory\Background\shell\Trash /v Description /t reg_sz /d @shell32.dll,-31332 /f >nul 2>nul
+    reg add hklm\Software\Classes\Directory\Background\shell\Trash /v Icon /t reg_sz /d shell32.dll,-254 /f >nul 2>nul
+    reg add hklm\Software\Classes\Directory\Background\shell\Trash /v MUIVerb /t reg_sz /d @shell32.dll,-10564 /f >nul 2>nul
+    reg add hklm\Software\Classes\Directory\Background\shell\Trash\command /v DelegateExecute /t reg_sz /d {48527bb3-e8de-450b-8910-8c4099cb8624} /f >nul 2>nul
 )
 
 echo.

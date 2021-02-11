@@ -16,7 +16,7 @@ if %osver%==0 sc config IpOverUsbSvc start= disabled >nul 2>nul
 set svrToClose=ALG HomeGroupListener HomeGroupProvider BITS EFS Mcx2Svc swprv CscService WPCSvc ShellHWDetection
 set svrToClose=%svrToClose% pla wercplsupport UmRdpService RemoteRegistry srservice SamSs wscsvc SDRSVC WbioSrvc
 set svrToClose=%svrToClose% WinDefend WerSvc ehRecvr ehSched WMPNetworkSvc wuauserv MSSEARCH WSearch ERSvc SharedAccess
-set svrToDemand=btwdins bthserv Browser TrkWks Netlogon napagent SessionEnv TermService WinRM seclogon Schedule Wecsvc MpsSvc
+set svrToDemand=btwdins Browser TrkWks Netlogon napagent SessionEnv TermService WinRM seclogon Schedule Wecsvc MpsSvc
 for %%j in (%svrToClose%) do sc config %%j start= disabled >nul 2>nul
 for %%k in (%svrToDemand%) do sc config %%k start= demand >nul 2>nul
 echo -------- Close unnecessarry service done! -----------
