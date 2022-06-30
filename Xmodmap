@@ -1,0 +1,17 @@
+! Caps_Lock + i     -> Up
+keycode  31 = i I Up
+
+! Caps_Lock + k     -> Down
+keycode  45 = k K Down
+
+! Caps_Lock + j     -> Left
+keycode  44 = j J Left
+
+! Caps_Lock + l     -> Right
+keycode  46 = l L Right
+
+! Caps_Lock + h     -> Home
+keycode  43 = h H Home
+
+! Caps_Lock + ;     -> End
+keycode  47 = semicolon colon End

@@ -1,0 +1,1257 @@
+<UserSettings>
+	<ApplicationIdentity version="8.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment">
+			<ToolsOptionsSubCategory name="Documents" RegisteredName="Documents" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="ShowMiscFilesProject">false</PropertyValue>
+				<PropertyValue name="AutoloadExternalChanges">false</PropertyValue>
+				<PropertyValue name="CheckForConsistentLineEndings">true</PropertyValue>
+				<PropertyValue name="SaveDocsAsUnicodeWhenDataLoss">false</PropertyValue>
+				<PropertyValue name="InitializeOpenFileFromCurrentDocument">true</PropertyValue>
+				<PropertyValue name="ReuseSavedActiveDocWindow">false</PropertyValue>
+				<PropertyValue name="DetectFileChangesOutsideIDE">true</PropertyValue>
+				<PropertyValue name="DontShowGlobalUndoChangeLossDialog">true</PropertyValue>
+				<PropertyValue name="AllowEditingReadOnlyFiles">true</PropertyValue>
+				<PropertyValue name="MiscFilesProjectSavesLastNItems">0</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="FindAndReplace" RegisteredName="FindAndReplace" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="ShowWarningMessages">true</PropertyValue>
+				<PropertyValue name="InitializeFromEditor">true</PropertyValue>
+				<PropertyValue name="ShowMessageBoxes">true</PropertyValue>
+				<PropertyValue name="HideWindowAfterMatchFromQuickFindReplace">false</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="General" RegisteredName="General" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="AnimationSpeed">5</PropertyValue>
+				<PropertyValue name="WindowMenuContainsNItems">10</PropertyValue>
+				<PropertyValue name="CloseButtonActiveTabOnly">true</PropertyValue>
+				<PropertyValue name="Animations">true</PropertyValue>
+				<PropertyValue name="AutohidePinActiveTabOnly">false</PropertyValue>
+				<PropertyValue name="ShowStatusBar">true</PropertyValue>
+				<PropertyValue name="MRUListContainsNItems">6</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="ProjectsAndSolution" RegisteredName="ProjectsAndSolution" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="ProjectsLocation">%vsspv_visualstudio_dir%\Projects</PropertyValue>
+				<PropertyValue name="PromptForRenameSymbol">false</PropertyValue>
+				<PropertyValue name="TrackFileSelectionInExplorer">false</PropertyValue>
+				<PropertyValue name="ShowOutputWindowBeforeBuild">true</PropertyValue>
+				<PropertyValue name="OnRunWhenErrors">2</PropertyValue>
+				<PropertyValue name="OnRunWhenOutOfDate">1</PropertyValue>
+				<PropertyValue name="AlwaysShowSolutionNode">true</PropertyValue>
+				<PropertyValue name="ProjectItemTemplatesLocation">%vsspv_visualstudio_dir%\Templates\ItemTemplates</PropertyValue>
+				<PropertyValue name="OnlySaveStartupProjectsAndDependencies">true</PropertyValue>
+				<PropertyValue name="ShowAdvancedBuildConfigurations">true</PropertyValue>
+				<PropertyValue name="DefaultBehaviorForStartupProjects">1</PropertyValue>
+				<PropertyValue name="OnRunOrPreview">0</PropertyValue>
+				<PropertyValue name="MSBuildOutputVerbosity">1</PropertyValue>
+				<PropertyValue name="ProjectTemplatesLocation">%vsspv_visualstudio_dir%\Templates\ProjectTemplates</PropertyValue>
+				<PropertyValue name="ShowTaskListAfterBuild">false</PropertyValue>
+				<PropertyValue name="ConcurrentBuilds">4</PropertyValue>
+				<PropertyValue name="SaveNewProjects">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Startup" RegisteredName="Startup" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="OnStartUp">4</PropertyValue>
+				<PropertyValue name="StartPageRefreshDownloadedContent">true</PropertyValue>
+				<PropertyValue name="StartPageRSSUrl">http://go.microsoft.com/fwlink/?linkid=45332&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+				<PropertyValue name="StartPageRefreshInterval">60</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="TaskList" RegisteredName="TaskList" PackageName="Visual Studio Task List Package">
+				<PropertyValue name="ConfirmTaskDeletion">true</PropertyValue>
+				<PropertyValue name="CommentTokens" ArrayType="VT_VARIANT" ArrayElementCount="4">
+					<PropertyValue name="0">TODO:2</PropertyValue>
+					<PropertyValue name="1">HACK:2</PropertyValue>
+					<PropertyValue name="2">UNDONE:2</PropertyValue>
+					<PropertyValue name="3">UnresolvedMergeConflict:3</PropertyValue>
+				</PropertyValue>
+				<PropertyValue name="WarnOnAddingHiddenItem">false</PropertyValue>
+				<PropertyValue name="DontShowFilePaths">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="WebBrowser" RegisteredName="WebBrowser" PackageName="Visual Studio Web Browser Package">
+				<PropertyValue name="HomePage">http://go.microsoft.com/fwlink/?LinkId=36593&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+				<PropertyValue name="SearchPage">http://go.microsoft.com/fwlink/?LinkId=36593&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+				<PropertyValue name="ViewSourceExternalProgram">%systemroot%\system32\notepad.exe</PropertyValue>
+				<PropertyValue name="ViewSourceIn">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
+		<ToolsOptionsCategory name="Projects" RegisteredName="Projects">
+			<ToolsOptionsSubCategory name="VBDefaults" RegisteredName="VBDefaults" PackageName="Visual Basic Project System">
+				<PropertyValue name="OptionCompare">0</PropertyValue>
+				<PropertyValue name="OptionStrict">0</PropertyValue>
+				<PropertyValue name="OptionExplicit">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="VCGeneral" RegisteredName="VCGeneral" PackageName="Visual C++ Project System Package">
+				<PropertyValue name="ShowNoMatchingRuleDlg">true</PropertyValue>
+				<PropertyValue name="ExtensionsToInclude">.cpp;.cxx;.cc;.c;.inl;.h;.hpp;.hxx;.hm;.inc;.rc;.resx;.idl;.rc2;.def;.odl;.asm;.asmx;.xsd;.bin;.rgs;.html;.htm;.manifest</PropertyValue>
+				<PropertyValue name="CPPExtensions">*.cpp;*.cxx;*.cc;*.c</PropertyValue>
+				<PropertyValue name="ValidateSchemas">true</PropertyValue>
+				<PropertyValue name="ToolFileSearchPaths"/>
+				<PropertyValue name="ShowEnvironmentInBuildLog">false</PropertyValue>
+				<PropertyValue name="ExtensionsToHide">.suo;.sln;.ncb;.vcproj;.csproj;.user;.vbproj;.scc;.vsscc;.vspscc;.old</PropertyValue>
+				<PropertyValue name="ShowMatchingRuleDlg">true</PropertyValue>
+				<PropertyValue name="DefaultSolutionExplorerMode">0</PropertyValue>
+				<PropertyValue name="BuildTiming">false</PropertyValue>
+				<PropertyValue name="BuildLogging">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
+		<ToolsOptionsCategory name="TextEditor" RegisteredName="TextEditor">
+			<ToolsOptionsSubCategory name="AllLanguages" RegisteredName="AllLanguages" PackageName="Text Management Package"/>
+			<ToolsOptionsSubCategory name="Basic" RegisteredName="Basic" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Basic-Specific" RegisteredName="Basic-Specific" PackageName="Visual Basic Compiler Package">
+				<PropertyValue name="EnableErrorCorrection">true</PropertyValue>
+				<PropertyValue name="Outlining">true</PropertyValue>
+				<PropertyValue name="DisplayLineSeparators">true</PropertyValue>
+				<PropertyValue name="PrettyListing">true</PropertyValue>
+				<PropertyValue name="AutoRequiredMemberInsert">true</PropertyValue>
+				<PropertyValue name="AutoEndInsert">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="C/C++" RegisteredName="C/C++" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="C/C++ Specific" RegisteredName="C/C++ Specific" PackageName="Visual C++ Language Manager Package">
+				<PropertyValue name="EnterOutliningModeWhenFilesOpen">true</PropertyValue>
+				<PropertyValue name="AutomaticOutliningOfStatementBlocks">false</PropertyValue>
+				<PropertyValue name="ColorizeInactiveBlocksDifferently">true</PropertyValue>
+				<PropertyValue name="EnableQuickInfoToolTips">true</PropertyValue>
+				<PropertyValue name="IndentBraces">false</PropertyValue>
+				<PropertyValue name="AutomaticOutliningOfPragmaRegions">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSS" RegisteredName="CSS" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSS Specific" RegisteredName="CSS Specific" PackageName="Visual Studio CSS Editing Package">
+				<PropertyValue name="FormatStyle">2</PropertyValue>
+				<PropertyValue name="DetectUnknownPropsEnabled">1</PropertyValue>
+				<PropertyValue name="FormatPropCase">1</PropertyValue>
+				<PropertyValue name="DetectInvalidValuesEnabled">1</PropertyValue>
+				<PropertyValue name="DetectErrorsEnabled">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSharp" RegisteredName="CSharp" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSharp-Specific" RegisteredName="CSharp-Specific" PackageName="Visual C# Language Service Package">
+				<PropertyValue name="Space_Normalize">0</PropertyValue>
+				<PropertyValue name="Space_AroundBinaryOperator">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnPaste">1</PropertyValue>
+				<PropertyValue name="UnboundItem_ExactMatches">5</PropertyValue>
+				<PropertyValue name="CompleteOnSpace">1</PropertyValue>
+				<PropertyValue name="CollapseInactiveBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="Watson_MaxExceptionsToReport">1</PropertyValue>
+				<PropertyValue name="EditAndContinueReportEnterBreakStateFailure">1</PropertyValue>
+				<PropertyValue name="TrackMostRecentlyUsed">1</PropertyValue>
+				<PropertyValue name="FilterKeywordsContextually">1</PropertyValue>
+				<PropertyValue name="BringUpOnSpace">1</PropertyValue>
+				<PropertyValue name="Rename_Preview">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="DelayBeforeShowingErrors">1500</PropertyValue>
+				<PropertyValue name="CollapseRegionBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Method">1</PropertyValue>
+				<PropertyValue name="RefactorNotifyRenameEnabled">1</PropertyValue>
+				<PropertyValue name="OnlyScanFirstTypeInFileForDesignerAttribute">0</PropertyValue>
+				<PropertyValue name="Indent_CaseLabels">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnBlockCompletion">1</PropertyValue>
+				<PropertyValue name="CompletionCommitCharacters">{}[]().,:;+-*/%&amp;|^!~=&lt;&gt;?@#'"\</PropertyValue>
+				<PropertyValue name="EditAndContinueEnabled">1</PropertyValue>
+				<PropertyValue name="InsertNewlineOnEnterWithWholeWord">0</PropertyValue>
+				<PropertyValue name="BringUpOnOverride">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_IndentOffset">2</PropertyValue>
+				<PropertyValue name="Rename_Comments">0</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ControlFlow">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_AnonymousMethod">1</PropertyValue>
+				<PropertyValue name="Space_WithinOtherParentheses">0</PropertyValue>
+				<PropertyValue name="BringUpOnIdentifier">1</PropertyValue>
+				<PropertyValue name="RemoveParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="Wrapping_KeepStatementsOnSingleLine">1</PropertyValue>
+				<PropertyValue name="Space_AfterBasesColon">1</PropertyValue>
+				<PropertyValue name="Indent_Braces">0</PropertyValue>
+				<PropertyValue name="CompleteOnNewline">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_UpdateAllReferences">0</PropertyValue>
+				<PropertyValue name="Space_WithinMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_AfterCast">0</PropertyValue>
+				<PropertyValue name="UnboundItem">1</PropertyValue>
+				<PropertyValue name="Colorize">1</PropertyValue>
+				<PropertyValue name="FilterToAllowableTypes">1</PropertyValue>
+				<PropertyValue name="Watson_DeferSendingUntilLater">0</PropertyValue>
+				<PropertyValue name="ShowKeywords">1</PropertyValue>
+				<PropertyValue name="ShowSnippets">1</PropertyValue>
+				<PropertyValue name="BraceMatchingRectangle">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Catch">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ArrayInitializer">0</PropertyValue>
+				<PropertyValue name="Space_WithinExpressionParentheses">0</PropertyValue>
+				<PropertyValue name="Space_InControlFlowConstruct">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnStatementCompletion">1</PropertyValue>
+				<PropertyValue name="SignatureChange">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_WrapLength">80</PropertyValue>
+				<PropertyValue name="NeverShowBuildWarningDialog">0</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Finally">1</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Indent_UnindentLabels">1</PropertyValue>
+				<PropertyValue name="Rename_Strings">0</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Else">1</PropertyValue>
+				<PropertyValue name="ImplementInterface">1</PropertyValue>
+				<PropertyValue name="EnableProgressDialogOnWaitForBackground">1</PropertyValue>
+				<PropertyValue name="Space_WithinMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BeforeSemicolonsInForStatement">0</PropertyValue>
+				<PropertyValue name="Space_BeforeComma">0</PropertyValue>
+				<PropertyValue name="Space_AfterMethodCallName">0</PropertyValue>
+				<PropertyValue name="Space_AfterComma">1</PropertyValue>
+				<PropertyValue name="ExtractInterface_SelectAll">0</PropertyValue>
+				<PropertyValue name="ReorderParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="Wrapping_IgnoreSpacesAroundBinaryOperators">0</PropertyValue>
+				<PropertyValue name="Space_BeforeBasesColon">1</PropertyValue>
+				<PropertyValue name="Space_AfterMethodDeclarationName">0</PropertyValue>
+				<PropertyValue name="Space_AfterDot">0</PropertyValue>
+				<PropertyValue name="QuickInfo_ShowAllExceptions">1</PropertyValue>
+				<PropertyValue name="AutoComment">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Type">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_IndentBase">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInStrings">0</PropertyValue>
+				<PropertyValue name="EnterOutliningModeOnOpen">1</PropertyValue>
+				<PropertyValue name="Space_WithinSquares">0</PropertyValue>
+				<PropertyValue name="GenerateStub">1</PropertyValue>
+				<PropertyValue name="ShowHiddenItems">0</PropertyValue>
+				<PropertyValue name="Squiggles">1</PropertyValue>
+				<PropertyValue name="Space_WithinCastParentheses">0</PropertyValue>
+				<PropertyValue name="Space_AfterSemicolonsInForStatement">1</PropertyValue>
+				<PropertyValue name="Indent_CaseContents">1</PropertyValue>
+				<PropertyValue name="Indent_FlushLabelsLeft">0</PropertyValue>
+				<PropertyValue name="Watson_ReportExceptions">1</PropertyValue>
+				<PropertyValue name="Enabled">1</PropertyValue>
+				<PropertyValue name="BringUpOnEventHookup">1</PropertyValue>
+				<PropertyValue name="ImplementInterface_InsertRegionTags">1</PropertyValue>
+				<PropertyValue name="Wrapping_PreserveSingleLine">1</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptySquares">0</PropertyValue>
+				<PropertyValue name="Space_BeforeOpenSquare">0</PropertyValue>
+				<PropertyValue name="Space_BeforeDot">0</PropertyValue>
+				<PropertyValue name="Indent_BlockContents">1</PropertyValue>
+				<PropertyValue name="Rename">1</PropertyValue>
+				<PropertyValue name="ColorizeBoundTypes">1</PropertyValue>
+				<PropertyValue name="Rename_Overloads">0</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInComments">0</PropertyValue>
+				<PropertyValue name="ProgressDialogDelaySeconds">2</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Fonts" RegisteredName="Fonts" PackageName="Text Management Package">
+				<PropertyValue name="FontCharacterSet">134</PropertyValue>
+				<PropertyValue name="FontSize">9</PropertyValue>
+				<PropertyValue name="FontFamily">YaHei Consolas Hybrid</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="General" RegisteredName="General" PackageName="Text Management Package">
+				<PropertyValue name="DragNDropTextEditing">true</PropertyValue>
+				<PropertyValue name="VerticalScrollBar">true</PropertyValue>
+				<PropertyValue name="EditorEmulation">0</PropertyValue>
+				<PropertyValue name="DetectUTF8WithoutSignature">false</PropertyValue>
+				<PropertyValue name="TrackChanges">true</PropertyValue>
+				<PropertyValue name="UndoCaretActions">false</PropertyValue>
+				<PropertyValue name="SelectionMargin">true</PropertyValue>
+				<PropertyValue name="GoToAnchorAfterEscape">false</PropertyValue>
+				<PropertyValue name="HorizontalScrollBar">true</PropertyValue>
+				<PropertyValue name="AutoDelimiterHighlighting">true</PropertyValue>
+				<PropertyValue name="MarginIndicatorBar">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="HTML" RegisteredName="HTML" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="HTML Specific" RegisteredName="HTML Specific" PackageName="Visual Studio HTM Editor Package">
+				<PropertyValue name="ShowDetails">0</PropertyValue>
+				<PropertyValue name="AttrValueNotQuoted">0</PropertyValue>
+				<PropertyValue name="ClientAttrCasing">2</PropertyValue>
+				<PropertyValue name="AutoInsertCloseTag">1</PropertyValue>
+				<PropertyValue name="InsertAttrValueQuotesFormatting">1</PropertyValue>
+				<PropertyValue name="FormatHTMLOnPaste">0</PropertyValue>
+				<PropertyValue name="InInlineStyle">1</PropertyValue>
+				<PropertyValue name="WrapTagLength">80</PropertyValue>
+				<PropertyValue name="InsertAttrValueQuotesTyping">0</PropertyValue>
+				<PropertyValue name="AutoPositionMode">0</PropertyValue>
+				<PropertyValue name="ClientTagNotLowerCase">0</PropertyValue>
+				<PropertyValue name="ShowBorders">1</PropertyValue>
+				<PropertyValue name="TagNotWellFormed">0</PropertyValue>
+				<PropertyValue name="WrapTag">1</PropertyValue>
+				<PropertyValue name="ServerAttrCasing">3</PropertyValue>
+				<PropertyValue name="ServerTagCasing">3</PropertyValue>
+				<PropertyValue name="VGridSpacing">8</PropertyValue>
+				<PropertyValue name="HGridSpacing">8</PropertyValue>
+				<PropertyValue name="ShowGlyphs">1</PropertyValue>
+				<PropertyValue name="AutoShowSmartTag">1</PropertyValue>
+				<PropertyValue name="ElementOrAttributeDeprecated">0</PropertyValue>
+				<PropertyValue name="AutoIDOnPaste">1</PropertyValue>
+				<PropertyValue name="SnapToGrid">0</PropertyValue>
+				<PropertyValue name="StartPageIn">2</PropertyValue>
+				<PropertyValue name="TargetFriendlyName">XHTML 1.0 Transitional (Netscape 7, Opera 7, Internet Explorer 6)</PropertyValue>
+				<PropertyValue name="EnableSourceViewPropertyGrid">0</PropertyValue>
+				<PropertyValue name="ShowErrors">1</PropertyValue>
+				<PropertyValue name="ClientTagCasing">2</PropertyValue>
+				<PropertyValue name="AutoPositioning">0</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="PL/SQL" RegisteredName="PL/SQL" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="PlainText" RegisteredName="PlainText" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="SQL Script" RegisteredName="SQL Script" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="T-SQL" RegisteredName="T-SQL" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="T-SQL7" RegisteredName="T-SQL7" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="T-SQL80" RegisteredName="T-SQL80" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="VJSharp-Specific" RegisteredName="VJSharp-Specific" PackageName="Visual J# Language Service Package">
+				<PropertyValue name="Space_Normalize">0</PropertyValue>
+				<PropertyValue name="Space_AroundBinaryOperator">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnPaste">1</PropertyValue>
+				<PropertyValue name="UnboundItem_ExactMatches">5</PropertyValue>
+				<PropertyValue name="CompleteOnSpace">1</PropertyValue>
+				<PropertyValue name="ImplementInterface_ReimplementExistingImplicitMembersInSuperTypes">0</PropertyValue>
+				<PropertyValue name="CollapseInactiveBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="AutoCompleteOnOverride_UseOverrideStub">0</PropertyValue>
+				<PropertyValue name="TrackMostRecentlyUsed">1</PropertyValue>
+				<PropertyValue name="FilterKeywordsContextually">1</PropertyValue>
+				<PropertyValue name="BringUpOnSpace">1</PropertyValue>
+				<PropertyValue name="Rename_Preview">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="DelayBeforeShowingErrors">1500</PropertyValue>
+				<PropertyValue name="CollapseRegionBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Method">1</PropertyValue>
+				<PropertyValue name="RefactorNotifyRenameEnabled">1</PropertyValue>
+				<PropertyValue name="WeakAmbiguityChecking">0</PropertyValue>
+				<PropertyValue name="Indent_CaseLabels">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnBlockCompletion">1</PropertyValue>
+				<PropertyValue name="CompletionCommitCharacters">{}[]().,:;+-/%&amp;|^!~=&lt;&gt;?@#'"\</PropertyValue>
+				<PropertyValue name="EditAndContinueEnabled">1</PropertyValue>
+				<PropertyValue name="BringUpOnOverride">1</PropertyValue>
+				<PropertyValue name="Rename_Comments">0</PropertyValue>
+				<PropertyValue name="ParseFileOnOpen">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ControlFlow">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_AnonymousMethod">1</PropertyValue>
+				<PropertyValue name="Space_WithinOtherParentheses">0</PropertyValue>
+				<PropertyValue name="MostRecentlyUsedCount">10</PropertyValue>
+				<PropertyValue name="BringUpOnIdentifier">1</PropertyValue>
+				<PropertyValue name="RemoveParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="Wrapping_KeepStatementsOnSingleLine">1</PropertyValue>
+				<PropertyValue name="Space_AfterBasesColon">1</PropertyValue>
+				<PropertyValue name="Indent_Braces">0</PropertyValue>
+				<PropertyValue name="CompleteOnNewline">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_UpdateAllReferences">0</PropertyValue>
+				<PropertyValue name="UseIntellisenseForBreakpointValidation">1</PropertyValue>
+				<PropertyValue name="DisplayMessageOnCatastrophicCompilerError">0</PropertyValue>
+				<PropertyValue name="Space_WithinMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_AfterCast">0</PropertyValue>
+				<PropertyValue name="UnboundItem_PartialMatches">8</PropertyValue>
+				<PropertyValue name="UnboundItem">1</PropertyValue>
+				<PropertyValue name="Colorize">1</PropertyValue>
+				<PropertyValue name="FilterToAllowableTypes">1</PropertyValue>
+				<PropertyValue name="ParameterHelp_FilterOnParameterCount">0</PropertyValue>
+				<PropertyValue name="FlushUnusuedTypesLimit">4096</PropertyValue>
+				<PropertyValue name="ColorizeUnboundTypes">0</PropertyValue>
+				<PropertyValue name="ShowKeywords">1</PropertyValue>
+				<PropertyValue name="Binding_AttemptRebindIgnoringAccessibility">1</PropertyValue>
+				<PropertyValue name="BraceMatchingRectangle">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Catch">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ArrayInitializer">0</PropertyValue>
+				<PropertyValue name="Space_WithinExpressionParentheses">0</PropertyValue>
+				<PropertyValue name="Space_InControlFlowConstruct">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnStatementCompletion">1</PropertyValue>
+				<PropertyValue name="SignatureChange">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_WrapLength">80</PropertyValue>
+				<PropertyValue name="ShowInitializerInDescription">1</PropertyValue>
+				<PropertyValue name="NeverShowBuildWarningDialog">0</PropertyValue>
+				<PropertyValue name="UpdateRegisterDesignViewOnIdle">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Finally">1</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Indent_UnindentLabels">1</PropertyValue>
+				<PropertyValue name="Rename_Strings">0</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Else">1</PropertyValue>
+				<PropertyValue name="ImplementInterface">1</PropertyValue>
+				<PropertyValue name="EnableProgressDialogOnWaitForBackground">1</PropertyValue>
+				<PropertyValue name="Space_WithinMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BeforeSemicolonsInForStatement">0</PropertyValue>
+				<PropertyValue name="Space_BeforeComma">0</PropertyValue>
+				<PropertyValue name="Space_AfterMethodCallName">0</PropertyValue>
+				<PropertyValue name="Space_AfterComma">1</PropertyValue>
+				<PropertyValue name="ExtractInterface_SelectAll">0</PropertyValue>
+				<PropertyValue name="ReorderParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="PromoteLocal_Enabled">1</PropertyValue>
+				<PropertyValue name="Wrapping_IgnoreSpacesAroundBinaryOperators">0</PropertyValue>
+				<PropertyValue name="Space_BeforeBasesColon">1</PropertyValue>
+				<PropertyValue name="Space_AfterMethodDeclarationName">0</PropertyValue>
+				<PropertyValue name="Space_AfterDot">0</PropertyValue>
+				<PropertyValue name="UnboundItem_FullyQualify_UseRelativeNamespaces">1</PropertyValue>
+				<PropertyValue name="QuickInfo_ShowAllExceptions">1</PropertyValue>
+				<PropertyValue name="AutoComment">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Type">1</PropertyValue>
+				<PropertyValue name="PreselectEnumOnMethodCall">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInStrings">0</PropertyValue>
+				<PropertyValue name="EnterOutliningModeOnOpen">1</PropertyValue>
+				<PropertyValue name="Space_WithinSquares">0</PropertyValue>
+				<PropertyValue name="GenerateStub">1</PropertyValue>
+				<PropertyValue name="ShowHiddenItems">0</PropertyValue>
+				<PropertyValue name="ImplementInterface_ReimplementExistingExplicitMembersInSuperTypes">1</PropertyValue>
+				<PropertyValue name="Squiggles">1</PropertyValue>
+				<PropertyValue name="Space_WithinCastParentheses">0</PropertyValue>
+				<PropertyValue name="Space_AfterSemicolonsInForStatement">1</PropertyValue>
+				<PropertyValue name="Indent_CaseContents">1</PropertyValue>
+				<PropertyValue name="Indent_FlushLabelsLeft">0</PropertyValue>
+				<PropertyValue name="GenerateStub_OnlyWithinMethods">0</PropertyValue>
+				<PropertyValue name="Enabled">1</PropertyValue>
+				<PropertyValue name="BringUpOnEventHookup">1</PropertyValue>
+				<PropertyValue name="WeakTypeInference">0</PropertyValue>
+				<PropertyValue name="QuickInfo_ShowAllOverloads">0</PropertyValue>
+				<PropertyValue name="ImplementInterface_InsertRegionTags">1</PropertyValue>
+				<PropertyValue name="Wrapping_PreserveSingleLine">1</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptySquares">0</PropertyValue>
+				<PropertyValue name="Space_BeforeOpenSquare">0</PropertyValue>
+				<PropertyValue name="Space_BeforeDot">0</PropertyValue>
+				<PropertyValue name="Indent_BlockContents">1</PropertyValue>
+				<PropertyValue name="Rename">1</PropertyValue>
+				<PropertyValue name="ColorizeBoundTypes">1</PropertyValue>
+				<PropertyValue name="ShowExpansions">1</PropertyValue>
+				<PropertyValue name="Rename_Overloads">0</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInComments">0</PropertyValue>
+				<PropertyValue name="ProgressDialogDelaySeconds">2</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Visual JSharp" RegisteredName="Visual JSharp" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="XML" RegisteredName="XML" PackageName="Text Management Package">
+				<PropertyValue name="TabSize">2</PropertyValue>
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="IndentSize">2</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
+	</ToolsOptions>
+	<Category name="Debugger" Category="{EEDBF29A-5C8B-4E01-827C-263382C18CFE}" Package="{C9DD4A57-47FB-11D2-83E7-00C04F9902C1}" RegisteredName="Debugger" PackageName="Visual Studio Debugger">
+		<PropertyValue name="ConfirmDeleteAllBreakpoints">1</PropertyValue>
+		<PropertyValue name="StopAllProcesses">1</PropertyValue>
+		<PropertyValue name="StopOnExceptionCrossingManagedBoundary">0</PropertyValue>
+		<PropertyValue name="EnableAddressLevelDebugging">1</PropertyValue>
+		<PropertyValue name="ShowDisassemblyWhenNoSource">0</PropertyValue>
+		<PropertyValue name="EnableBreakpointConstraints">1</PropertyValue>
+		<PropertyValue name="UseExceptionHelper">0</PropertyValue>
+		<PropertyValue name="AutoUnwindOnException">1</PropertyValue>
+		<PropertyValue name="JustMyCode">0</PropertyValue>
+		<PropertyValue name="ShowNonPublicMembers">0</PropertyValue>
+		<PropertyValue name="WarnIfNoUserCodeOnLaunch">0</PropertyValue>
+		<PropertyValue name="AllowImplicitFuncEval">1</PropertyValue>
+		<PropertyValue name="AllowToString">1</PropertyValue>
+		<PropertyValue name="UseSourceServer">0</PropertyValue>
+		<PropertyValue name="ShowSourceServerDiagnostics">0</PropertyValue>
+		<PropertyValue name="AlwaysColorMarkerText">0</PropertyValue>
+		<PropertyValue name="UseDocumentChecksum">1</PropertyValue>
+		<PropertyValue name="OutputToImmediate">0</PropertyValue>
+		<PropertyValue name="ShowRawStructures">0</PropertyValue>
+		<PropertyValue name="DisableJITOptimization">1</PropertyValue>
+		<PropertyValue name="ShowNoSymbolsDialog">1</PropertyValue>
+		<PropertyValue name="HexDisplay">0</PropertyValue>
+		<PropertyValue name="HexInput">0</PropertyValue>
+		<PropertyValue name="AddUnmappedBreakpointAtMappedLocation">0</PropertyValue>
+		<PropertyValue name="StepIntoOnRestart">0</PropertyValue>
+		<PropertyValue name="ENCEnable">1</PropertyValue>
+		<PropertyValue name="ENCApplyChangesOnContinue">1</PropertyValue>
+		<PropertyValue name="ENCWelcome">0</PropertyValue>
+		<PropertyValue name="ENCStaleCodeWarning">1</PropertyValue>
+		<PropertyValue name="ENCPrecompile">1</PropertyValue>
+		<PropertyValue name="ENCRelink">1</PropertyValue>
+		<PropertyValue name="NOENCAllowEdits">1</PropertyValue>
+		<PropertyValue name="NOENCIgnore">0</PropertyValue>
+		<PropertyValue name="NOENCRebuild">0</PropertyValue>
+		<PropertyValue name="ConfirmFoundFiles">0</PropertyValue>
+		<PropertyValue name="DisasmLineNumbers">0</PropertyValue>
+		<PropertyValue name="ModulesShowAll">1</PropertyValue>
+		<PropertyValue name="UseCodeSense">1</PropertyValue>
+		<PropertyValue name="DisasmFields">67577</PropertyValue>
+		<PropertyValue name="CallStackViewOptions">7799040</PropertyValue>
+		<PropertyValue name="ShowExternalCode">0</PropertyValue>
+		<PropertyValue name="SourceStepUnit">0</PropertyValue>
+		<PropertyValue name="DisasmStepUnit">2</PropertyValue>
+		<PropertyValue name="CrossThreadCallStack">1</PropertyValue>
+		<PropertyValue name="SaveRemoteDumps">1</PropertyValue>
+		<PropertyValue name="LongEvalTimeout">10000</PropertyValue>
+		<PropertyValue name="NormalEvalTimeout">5000</PropertyValue>
+		<PropertyValue name="QuickwatchTimeout">20000</PropertyValue>
+		<PropertyValue name="DataTipTimeout">3000</PropertyValue>
+		<PropertyValue name="AutosReturnValsTimeout">2000</PropertyValue>
+		<PropertyValue name="AutosRegistersTimeout">2000</PropertyValue>
+		<PropertyValue name="LocalsTimeout">10000</PropertyValue>
+		<PropertyValue name="RegistersTimeout">10000</PropertyValue>
+		<PropertyValue name="AddressExpressionTimeout">10000</PropertyValue>
+		<PropertyValue name="ScriptDocsTimeout">10000</PropertyValue>
+		<PropertyValue name="ImmediateWindowTimeout">5000</PropertyValue>
+		<PropertyValue name="SetValueTimeout">15000</PropertyValue>
+		<PropertyValue name="ShowNonprintableCharsAsGlyphs">0</PropertyValue>
+		<PropertyValue name="ShowSystemProcesses">0</PropertyValue>
+		<PropertyValue name="ShowProcessesFromAllSessions">0</PropertyValue>
+		<PropertyValue name="EnhancedDataTips">1</PropertyValue>
+		<PropertyValue name="UserSpecifiedEngines">0</PropertyValue>
+		<PropertyValue name="OutputOnException">1</PropertyValue>
+		<PropertyValue name="OutputOnModuleLoad">1</PropertyValue>
+		<PropertyValue name="OutputOnModuleUnload">1</PropertyValue>
+		<PropertyValue name="OutputOnModuleSymbolSearch">1</PropertyValue>
+		<PropertyValue name="OutputOnProcessDestroy">1</PropertyValue>
+		<PropertyValue name="OutputOnThreadDestroy">1</PropertyValue>
+		<PropertyValue name="OutputOnOutputDebugString">1</PropertyValue>
+		<PropertyValue name="OutputOnDebuggerMessage">1</PropertyValue>
+		<PropertyValue name="VariableWindowIcons">1</PropertyValue>
+		<PropertyValue name="DisableAttachSecurityWarning">0</PropertyValue>
+		<PropertyValue name="LoadDllExports">0</PropertyValue>
+		<PropertyValue name="NativeRPC">0</PropertyValue>
+		<PropertyValue name="AllowSideEffectEval">0</PropertyValue>
+		<PropertyValue name="EnableWatchTipBar">0</PropertyValue>
+		<PropertyValue name="AutoLoadFromSymbolPath">1</PropertyValue>
+		<PropertyValue name="LoadSymbolsWhenSettingsChanged">1</PropertyValue>
+		<PropertyValue name="OneClickEdit">0</PropertyValue>
+		<PropertyValue name="OfferArrayExpansion">0</PropertyValue>
+		<PropertyValue name="VariableWindowPromptOnLargeExpansion">1</PropertyValue>
+		<PropertyValue name="VariableWindowMaxSupportedChildren">1000000</PropertyValue>
+		<PropertyValue name="PromptToAddSourceToIgnoreList">0</PropertyValue>
+		<PropertyValue name="SourceServerExtractToDirectory"/>
+		<PropertyValue name="DefaultTracepointMessage">Function: $FUNCTION, Thread: $TID $TNAME</PropertyValue>
+		<PropertyValue name="ProgramToDebugPath"/>
+		<PropertyValue name="AttachToProcessDefaultEngineList"/>
+		<PropertyValue name="SecureSourceLocalDirectory"/>
+		<PropertyValue name="SymbolPath"/>
+		<PropertyValue name="SymbolPathState"/>
+		<PropertyValue name="SymbolCacheDir"/>
+	</Category>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_Aliases" Category="{AD334E74-368A-4c46-9AF8-F53ABF0775F2}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Aliases" PackageName="Visual Studio Environment Package">
+			<Aliases Version="1.0">
+				<Alias Name="immed" Definition="Tools.ImmediateMode"/>
+				<Alias Name="props" Definition="View.PropertiesWindow"/>
+				<Alias Name="memory1" Definition="Debug.Memory1"/>
+				<Alias Name="memory2" Definition="Debug.Memory2"/>
+				<Alias Name="memory3" Definition="Debug.Memory3"/>
+				<Alias Name="Lcase" Definition="Edit.MakeLowercase"/>
+				<Alias Name="memory4" Definition="Debug.Memory4"/>
+				<Alias Name="locals" Definition="Debug.Locals"/>
+				<Alias Name="kb" Definition="Debug.ListCallStack"/>
+				<Alias Name="da" Definition="Debug.ListMemory /Ansi"/>
+				<Alias Name="db" Definition="Debug.ListMemory /Format:OneByte"/>
+				<Alias Name="DelEOL" Definition="Edit.DeleteToEOL"/>
+				<Alias Name="dc" Definition="Debug.ListMemory /Format:FourBytes /Ansi"/>
+				<Alias Name="dd" Definition="Debug.ListMemory /Format:FourBytes"/>
+				<Alias Name="df" Definition="Debug.ListMemory /Format:Float"/>
+				<Alias Name="WordWrap" Definition="Edit.ToggleWordWrap"/>
+				<Alias Name="AddProj" Definition="File.AddNewProject"/>
+				<Alias Name="dq" Definition="Debug.ListMemory /Format:EightBytes"/>
+				<Alias Name="du" Definition="Debug.ListMemory /Unicode"/>
+				<Alias Name="designer" Definition="View.ViewDesigner"/>
+				<Alias Name="ListMembers" Definition="Edit.ListMembers"/>
+				<Alias Name="code" Definition="View.ViewCode"/>
+				<Alias Name="ParamInfo" Definition="Edit.ParameterInfo"/>
+				<Alias Name="DelHSp" Definition="Edit.DeleteHorizontalWhiteSpace"/>
+				<Alias Name="TileH" Definition="Window.TileHorizontally"/>
+				<Alias Name="save" Definition="File.SaveSelectedItems"/>
+				<Alias Name="?" Definition="Debug.Print"/>
+				<Alias Name="callstack" Definition="Debug.CallStack"/>
+				<Alias Name="open" Definition="File.OpenFile"/>
+				<Alias Name="TileV" Definition="Window.TileVertically"/>
+				<Alias Name="OutlineDefs" Definition="Edit.CollapsetoDefinitions"/>
+				<Alias Name="CloseAll" Definition="Window.CloseAllDocuments"/>
+				<Alias Name="ToggleBook" Definition="Edit.ToggleBookmark"/>
+				<Alias Name="InsertFile" Definition="Edit.InsertFileAsText"/>
+				<Alias Name="autos" Definition="Debug.Autos"/>
+				<Alias Name="SaveAll" Definition="File.SaveAll"/>
+				<Alias Name="new" Definition="File.NewFile"/>
+				<Alias Name="d" Definition="Debug.ListMemory"/>
+				<Alias Name="rtc" Definition="Debug.RunToCursor"/>
+				<Alias Name="navigate" Definition="View.WebBrowser"/>
+				<Alias Name="g" Definition="Debug.Start"/>
+				<Alias Name="k" Definition="Debug.ListCallStack"/>
+				<Alias Name="format" Definition="Edit.FormatSelection"/>
+				<Alias Name="n" Definition="Debug.SetRadix"/>
+				<Alias Name="p" Definition="Debug.StepOver"/>
+				<Alias Name="q" Definition="Debug.StopDebugging"/>
+				<Alias Name="r" Definition="Debug.ListRegisters"/>
+				<Alias Name="t" Definition="Debug.StepInto"/>
+				<Alias Name="~*kb" Definition="Debug.ListCallStack /AllThreads"/>
+				<Alias Name="u" Definition="Debug.ListDisassembly"/>
+				<Alias Name="nf" Definition="File.NewFile"/>
+				<Alias Name="registers" Definition="Debug.Registers"/>
+				<Alias Name="LineCut" Definition="Edit.LineCut"/>
+				<Alias Name="memory" Definition="memory1"/>
+				<Alias Name="|" Definition="Debug.ListProcesses"/>
+				<Alias Name="~" Definition="Debug.ListThreads"/>
+				<Alias Name="np" Definition="File.NewProject"/>
+				<Alias Name="DelBOL" Definition="Edit.DeleteToBOL"/>
+				<Alias Name="~*k" Definition="Debug.ListCallStack /AllThreads"/>
+				<Alias Name="NextBook" Definition="Edit.NextBookmark"/>
+				<Alias Name="TaskList" Definition="View.TaskList"/>
+				<Alias Name="Ucase" Definition="Edit.MakeUppercase"/>
+				<Alias Name="NewProj" Definition="File.NewProject"/>
+				<Alias Name="Untabify" Definition="Edit.UntabifySelectedLines"/>
+				<Alias Name="GotoBrace" Definition="Edit.GotoBrace"/>
+				<Alias Name="cls" Definition="Edit.ClearAll"/>
+				<Alias Name="shell" Definition="Tools.Shell"/>
+				<Alias Name="of" Definition="File.OpenFile"/>
+				<Alias Name="log" Definition="Tools.LogCommandWindowOutput"/>
+				<Alias Name="print" Definition="File.Print"/>
+				<Alias Name="op" Definition="File.OpenProject"/>
+				<Alias Name="eval" Definition="Debug.EvaluateStatement"/>
+				<Alias Name="alias" Definition="Tools.Alias"/>
+				<Alias Name="watch" Definition="Debug.Watch"/>
+				<Alias Name="cmd" Definition="View.CommandWindow"/>
+				<Alias Name="help" Definition="Help.F1Help"/>
+				<Alias Name="GotoLn" Definition="Edit.GoTo"/>
+				<Alias Name="disasm" Definition="Debug.Disassembly"/>
+				<Alias Name="redo" Definition="Edit.Redo"/>
+				<Alias Name="undo" Definition="Edit.Undo"/>
+				<Alias Name="tabify" Definition="Edit.TabifySelectedLines"/>
+				<Alias Name="LineDel" Definition="Edit.LineDelete"/>
+				<Alias Name="StopOutlining" Definition="Edit.CollapsetoDefinitions"/>
+				<Alias Name="pr" Definition="Debug.StepOut"/>
+				<Alias Name="SaveAs" Definition="File.SaveSelectedItemsAs"/>
+				<Alias Name="FullScreen" Definition="View.FullScreen"/>
+				<Alias Name="nav" Definition="navigate"/>
+				<Alias Name="SwapAnchor" Definition="Edit.SwapAnchor"/>
+				<Alias Name="exit" Definition="File.Exit"/>
+				<Alias Name="threads" Definition="Debug.Threads"/>
+				<Alias Name="PrevBook" Definition="Edit.PreviousBookmark"/>
+				<Alias Name="close" Definition="File.Close"/>
+				<Alias Name="toolbox" Definition="View.Toolbox"/>
+				<Alias Name="bl" Definition="Debug.Breakpoints"/>
+				<Alias Name="bp" Definition="Debug.ToggleBreakpoint"/>
+				<Alias Name="??" Definition="Debug.QuickWatch"/>
+				<Alias Name="StopFind" Definition="Edit.FindInFiles /stop"/>
+				<Alias Name="ClearBook" Definition="Edit.ClearBookmarks"/>
+			</Aliases>
+		</Category>
+		<Category name="Environment_CallBrowser" Category="{50B05A5D-9174-48eb-851A-B1C616A0B43D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_CallBrowser" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="CallBrowserSortAlphabetically">true</PropertyValue>
+			<PropertyValue name="CallBrowserSortByAccess">false</PropertyValue>
+			<PropertyValue name="CallBrowserShowFullyQualifiedNames">true</PropertyValue>
+		</Category>
+		<Category name="Environment_ClassView" Category="{40AF29AB-4C5B-412A-9CE8-465C4FCFE41D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_ClassView" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="ClassViewShowProjectReferences">false</PropertyValue>
+			<PropertyValue name="ClassViewShowHiddenTypesAndMembers">false</PropertyValue>
+			<PropertyValue name="ClassViewTypesSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ClassViewTypesSortByType">true</PropertyValue>
+			<PropertyValue name="ClassViewTypesSortByAccess">false</PropertyValue>
+			<PropertyValue name="ClassViewTypesGroupByType">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortByBestMatch">true</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortByType">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortByAccess">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsGroupByType">false</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewPublic">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewProtected">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewPrivate">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewOther">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersShowInherited">false</PropertyValue>
+			<PropertyValue name="ClassViewShowBaseTypes">true</PropertyValue>
+			<PropertyValue name="ClassViewShowDerivedTypes">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ClassViewMembersSortByType">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersSortByAccess">false</PropertyValue>
+		</Category>
+		<Category name="Environment_CommandBars" Category="{B9D9C123-B500-4202-B887-57C829CBD08F}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_CommandBars" PackageName="Visual Studio Environment Package">
+			<CommandBars Version="04082712">
+				<DefaultCustomizations>
+					<!-- ******************************************* Add commands ********************************************** -->
+					<!-- Add commands to "View" menu, group CODEBROWSENAV_WINDOWS -->
+					<add Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:00000848" CmdPri="00d00001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000722" GroupPri="08000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.CallBrowser</add>
+					<!-- Add commands to "View" menu, group DEV_WINDOWS -->
+					<add Cmd="{3A3E1789-3E35-47B0-8567-D2FB407CC63D}:00003000" CmdPri="04000001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000723" GroupPri="08500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.PropertyManager</add>
+					<add Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000003ff" CmdPri="04800001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000723" GroupPri="08500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.ResourceView</add>
+					<!-- Add commands to "View->Other Windows" menu, group 19f -->
+					<add Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000140" CmdPri="02800001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.ErrorList</add>
+					<add Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000eb" CmdPri="04804001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.PropertiesWindow</add>
+					<add Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:000008d4" CmdPri="06008001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.ServerExplorer</add>
+					<add Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:000008d5" CmdPri="0540a001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.DatabaseExplorer</add>
+					<!-- ******************************************* Remove commands ******************************************* -->
+					<!-- Remove commands from "View->Other Windows" menu, group 35a -->
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:00000848" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000035a" GroupPri="00500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.CallBrowser</remove>
+					<!-- Remove commands from the Edit menu -->
+					<!-- ECMD_GOTONEXTBOOKMARK -->
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:0000004d" CmdPri="07040000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000012d" GroupPri="a0000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000081"/>
+					<!-- ECMD_GOTOPREVBOOKMARK -->
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:0000004e" CmdPri="07050000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000012d" GroupPri="a0000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000081"/>
+					<!-- cmdidNextBookmarkFolder -->
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:00000238" CmdPri="07060000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000012d" GroupPri="a0000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000081"/>
+					<!-- cmdidPrevBookmarkFolder -->
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:00000239" CmdPri="07070000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000012d" GroupPri="a0000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000081"/>
+					<!-- Remove commands from the View menu -->
+					<!-- cmdidOpen -->
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000105" CmdPri="03000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000133" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082"/>
+					<!-- cmdidOpenWith -->
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000c7" CmdPri="04000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000133" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082"/>
+					<!-- Remove commands from the View menu, ORG_WINDOWS group -->
+					<!-- cmdid_SE_ServerExplorer -->
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:000008d4" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000721" GroupPri="07500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.ServerExplorer</remove>
+					<remove Cmd="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2}:000008d5" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000721" GroupPri="07500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.DatabaseExplorer</remove>
+					<!-- Remove commands from the View menu, DEV_WINDOWS group -->
+					<!-- cmdidErrorListWindow -->
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:00000140" CmdPri="01000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000723" GroupPri="08500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.ErrorList</remove>
+					<!-- cmdidPropertiesWindow -->
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000eb" CmdPri="03000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000723" GroupPri="08500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.PropertiesWindow</remove>
+					<!-- cmdidTaskListWindow -->
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000ec" CmdPri="04000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000723" GroupPri="08500000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000082">View.TaskList</remove>
+					<!-- Remove commands from "View->Other Windows" menu, group 19f -->
+					<remove Cmd="{3A3E1789-3E35-47B0-8567-D2FB407CC63D}:00003000" CmdPri="05000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.PropertyManager</remove>
+					<!-- cmdidResourceView -->
+					<add Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000000ec" CmdPri="06010001" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.TaskList</add>
+					<remove Cmd="{5EFC7975-14BC-11CF-9B2B-00AA00573819}:000003ff" CmdPri="06000000" Group="{D309F791-903F-11D0-9EFC-00A0C911004F}:0000019f" GroupPri="01000000" Menu="{D309F791-903F-11D0-9EFC-00A0C911004F}:00000300">View.ResourceView</remove>
+				</DefaultCustomizations>
+			</CommandBars>
+			<PropertyValue name="ShowLargeButtons">false</PropertyValue>
+			<PropertyValue name="ShowScreenTipShortcutKeys">false</PropertyValue>
+			<PropertyValue name="ShowScreenTips">true</PropertyValue>
+		</Category>
+		<Category name="Environment_DefaultEditors" Category="{68161AEE-BCA8-4214-B2E4-7875263E49C5}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_DefaultEditors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="NumberOfMappings">0</PropertyValue>
+			<PropertyValue name="NumberOfDefaultEditors">0</PropertyValue>
+		</Category>
+		<Category name="Environment_ErrorList" Category="{68897077-DF64-4628-9BD4-025923684F2F}" Package="{4A9B7E50-AA16-11d0-A8C5-00A0C921A4D2}" RegisteredName="Environment_ErrorList" PackageName="Visual Studio Task List Package">
+			<PropertyValue name="Version">1</PropertyValue>
+			<PropertyValue name="ErrorListShowsErrors">false</PropertyValue>
+			<PropertyValue name="ErrorListShowsWarnings">false</PropertyValue>
+			<PropertyValue name="ErrorListShowsMessages">false</PropertyValue>
+			<PropertyValue name="ActiveProvider">{7E5BB8D2-57E5-4FA9-9542-3870395C16A1}</PropertyValue>
+			<TaskProviders>
+				<Provider GUID="{7E5BB8D2-57E5-4FA9-9542-3870395C16A1}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="19" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="19" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="File" Width="150" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Project" Width="150" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+			</TaskProviders>
+		</Category>
+		<Category name="Environment_Expansions" Category="{0B9A10B2-C0D0-4a6a-8353-115E9CACF34A}" Package="{F5E7E720-1401-11d1-883B-0000F87579D2}" RegisteredName="Environment_Expansions" PackageName="Text Management Package">
+			<Expansions Default="true" Version="1.0"/>
+		</Category>
+		<Category name="Environment_ExternalTools" Category="{E8FAE9E8-FBA2-4474-B134-AB0FFCFB291D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_ExternalTools" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).Command">%vsspv_vs_install_directory%\Common7\Tools\tstcon32.exe</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).Arguments"/>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).InitialDirectory">$(TargetDir)</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).SourceKeyName">ActiveX Control Test Co&amp;ntainer</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).PromptForArguments">false</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).CloseOnExit">false</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).IsGUIapp">true</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).UseTaskList">false</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).Unicode">false</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).Package">{1B027A40-8F43-11D0-8D11-00A0C91BC942}</PropertyValue>
+			<PropertyValue name="ActiveX 控件测试容器(&amp;N).NameID">1302</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).Command">%vsspv_vs_install_directory%\Common7\Tools\guidgen.exe</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).Arguments"/>
+			<PropertyValue name="创建 GUID(&amp;G).InitialDirectory">%vsspv_vs_install_directory%\Common7\Tools\</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).SourceKeyName">Create GUID</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).PromptForArguments">false</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).CloseOnExit">false</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).IsGUIapp">true</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).UseTaskList">false</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).Unicode">false</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).Package">{DA9FB551-C724-11D0-AE1F-00A0C90FFFC3}</PropertyValue>
+			<PropertyValue name="创建 GUID(&amp;G).NameID">14453</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Command">%vsspv_vs_install_directory%\Application\PreEmptive Solutions\Dotfuscator Community Edition\Dotfuscator.exe</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Arguments"/>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.InitialDirectory">$(TargetDir)</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.SourceKeyName">Dot&amp;fuscator Community Edition</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.UseOutputWindow">true</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.PromptForArguments">false</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.CloseOnExit">false</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.IsGUIapp">false</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.UseTaskList">false</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Unicode">false</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Package">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.NameID">0</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).Command">%vsspv_vs_install_directory%\Common7\Tools\errlook.exe</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).Arguments"/>
+			<PropertyValue name="错误查找(&amp;K).InitialDirectory">$(TargetDir)</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).SourceKeyName">Error Loo&amp;kup</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).PromptForArguments">false</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).CloseOnExit">false</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).IsGUIapp">true</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).UseTaskList">false</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).Unicode">false</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).Package">{1B027A40-8F43-11D0-8D11-00A0C91BC942}</PropertyValue>
+			<PropertyValue name="错误查找(&amp;K).NameID">1301</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).Command">%vsspv_vs_install_directory%\Common7\Tools\AtlTraceTool8.exe</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).Arguments"/>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).InitialDirectory">%vsspv_vs_install_directory%\Common7\Tools\</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).SourceKeyName">MFC/ATL &amp;Trace Tool</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).PromptForArguments">false</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).CloseOnExit">false</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).IsGUIapp">true</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).UseTaskList">false</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).Unicode">false</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).Package">{F1C25864-3097-11D2-A5C5-00C04F7968B4}</PropertyValue>
+			<PropertyValue name="ATL/MFC 跟踪工具(&amp;T).NameID">10052</PropertyValue>
+			<PropertyValue name="ILDasm.Command">%vsspv_vs_install_directory%\sdk\v2.0\bin\ildasm.exe</PropertyValue>
+			<PropertyValue name="ILDasm.Arguments"/>
+			<PropertyValue name="ILDasm.InitialDirectory">$(targetdir)</PropertyValue>
+			<PropertyValue name="ILDasm.SourceKeyName"/>
+			<PropertyValue name="ILDasm.UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="ILDasm.PromptForArguments">false</PropertyValue>
+			<PropertyValue name="ILDasm.CloseOnExit">true</PropertyValue>
+			<PropertyValue name="ILDasm.IsGUIapp">false</PropertyValue>
+			<PropertyValue name="ILDasm.SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="ILDasm.UseTaskList">false</PropertyValue>
+			<PropertyValue name="ILDasm.Unicode">false</PropertyValue>
+			<PropertyValue name="ILDasm.Package">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="ILDasm.NameID">0</PropertyValue>
+			<PropertyValue name="Spy++.Command">%vsspv_vs_install_directory%\Common7\Tools\spyxx.exe</PropertyValue>
+			<PropertyValue name="Spy++.Arguments"/>
+			<PropertyValue name="Spy++.InitialDirectory">$(itemdir)</PropertyValue>
+			<PropertyValue name="Spy++.SourceKeyName"/>
+			<PropertyValue name="Spy++.UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="Spy++.PromptForArguments">false</PropertyValue>
+			<PropertyValue name="Spy++.CloseOnExit">false</PropertyValue>
+			<PropertyValue name="Spy++.IsGUIapp">true</PropertyValue>
+			<PropertyValue name="Spy++.SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="Spy++.UseTaskList">false</PropertyValue>
+			<PropertyValue name="Spy++.Unicode">false</PropertyValue>
+			<PropertyValue name="Spy++.Package">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="Spy++.NameID">0</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.Command">%systemroot%\system32\cmd.exe</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.Arguments">/K vcvars32.bat</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.InitialDirectory">%vsspv_vs_install_directory%\vc\bin</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.SourceKeyName"/>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.UseOutputWindow">false</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.PromptForArguments">false</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.CloseOnExit">true</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.IsGUIapp">false</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.SaveAllDocs">true</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.UseTaskList">false</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.Unicode">false</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.Package">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="Visual Studio 2005 Command Prompt.NameID">0</PropertyValue>
+			<PropertyValue name="ToolNames">ActiveX 控件测试容器(&amp;N), 创建 GUID(&amp;G), Dot&amp;fuscator Community Edition, 错误查找(&amp;K), ATL/MFC 跟踪工具(&amp;T), ILDasm, Spy++, Visual Studio 2005 Command Prompt</PropertyValue>
+		</Category>
+		<Category name="Environment_FindSymbol" Category="{C93260BC-0C07-484a-8188-6F4763BD7FD4}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FindSymbol" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="FindOptionsIsExpanded">false</PropertyValue>
+			<PropertyValue name="LookinReferencesIsChecked">true</PropertyValue>
+			<PropertyValue name="MatchCaseIsChecked">false</PropertyValue>
+			<PropertyValue name="Type">2</PropertyValue>
+			<PropertyValue name="SelectedScope">{B1BA9461-FC54-45B3-A484-CB6DD0B95C94}</PropertyValue>
+		</Category>
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<FontsAndColors Version="2.0">
+				<Categories/>
+			</FontsAndColors>
+			<PropertyValue name="Version">2</PropertyValue>
+		</Category>
+		<Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+			<Version>8.0.0.0</Version>
+			<KeyboardShortcuts>
+				<ScopeDefinitions>
+					<Scope Name="类关系图" ID="{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"/>
+					<Scope Name="部署设计器" ID="{D056D361-43FC-4DDD-8559-0D40EB8C77D7}"/>
+					<Scope Name="逻辑数据中心设计器" ID="{222AC579-87F1-44CE-AE8C-B7D95931ED9F}"/>
+					<Scope Name="应用程序设计器" ID="{5A1FF380-5684-4D47-8E04-BDED2D53DCA4}"/>
+					<Scope Name="托管资源编辑器" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/>
+					<Scope Name="XML 编辑器数据视图" ID="{F482F8AF-1E66-4760-919E-964707265994}"/>
+					<Scope Name="VC 快捷键编辑器" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}"/>
+					<Scope Name="Web 浏览器" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/>
+					<Scope Name="XML 编辑器架构视图" ID="{E6631B5B-2EAB-41E8-82FD-6469645C76C9}"/>
+					<Scope Name="数据库设计器" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/>
+					<Scope Name="HTML 编辑器源视图" ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}"/>
+					<Scope Name="HTML 编辑器设计视图" ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}"/>
+					<Scope Name="报表设计器" ID="{CB3675B8-701E-4F56-9167-2714E167FF3F}"/>
+					<Scope Name="VC 图像编辑器" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}"/>
+					<Scope Name="Windows 窗体设计器" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/>
+					<Scope Name="视图设计器" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/>
+					<Scope Name="数据集编辑器" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}"/>
+					<Scope Name="查询设计器" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/>
+					<Scope Name="CSS 源编辑器" ID="{A764E89A-518D-11D2-9A89-00C04F79EFC3}"/>
+					<Scope Name="文本编辑器" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/>
+					<Scope Name="全局" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
+					<Scope Name="VC 字符串编辑器" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}"/>
+					<Scope Name="VC 对话框编辑器" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}"/>
+					<Scope Name="设置设计器" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}"/>
+					<Scope Name="HTML 编辑器代码视图" ID="{4C01CBEE-FB8C-4ED0-8EC0-68348C52822E}"/>
+					<Scope Name="表设计器" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/>
+				</ScopeDefinitions>
+				<DefaultShortcuts/>
+				<ShortcutsScheme>Visual C++ 6</ShortcutsScheme>
+				<UserShortcuts>
+					<Shortcut Command="VisualAssistX.SelectionToggleLineComment" Scope="文本编辑器">Ctrl+/</Shortcut>
+					<RemoveShortcut Command="Build.CleanSolution" Scope="文本编辑器">Shift+F7</RemoveShortcut>
+					<RemoveShortcut Command="View.ViewDesigner" Scope="全局">Shift+F7</RemoveShortcut>
+					<Shortcut Command="Build.CleanSolution" Scope="全局">Shift+F7</Shortcut>
+					<RemoveShortcut Command="Macros.MyMacros.Module1.MyAddBracketWord" Scope="全局">Ctrl+9</RemoveShortcut>
+					<Shortcut Command="Macros.MyMacros.Module1.MyAddSemicolon" Scope="文本编辑器">Ctrl+;</Shortcut>
+					<RemoveShortcut Command="Edit.ListMembers" Scope="文本编辑器">Ctrl+J</RemoveShortcut>
+					<Shortcut Command="Macros.MyMacros.Module1.MyJumpCurLine" Scope="文本编辑器">Ctrl+J</Shortcut>
+					<RemoveShortcut Command="Edit.MakeLowercase" Scope="文本编辑器">Ctrl+U</RemoveShortcut>
+					<RemoveShortcut Command="Macros.MyMacros.Module1.MyAddBracketWord" Scope="文本编辑器">Ctrl+9</RemoveShortcut>
+					<Shortcut Command="Macros.MyMacros.Module1.MyAddBracketWord" Scope="文本编辑器">Ctrl+9</Shortcut>
+					<Shortcut Command="Macros.MyMacros.Module1.MyUpperWord" Scope="文本编辑器">Ctrl+U</Shortcut>
+				</UserShortcuts>
+			</KeyboardShortcuts>
+		</Category>
+		<Category name="Environment_NewProjectDialogPreferredLanguage" Category="{77E22C0C-9F4A-4bfb-AD3A-3F3F4711E9ED}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_NewProjectDialogPreferredLanguage" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="HasNewProjectDialogPreferredLanguage">true</PropertyValue>
+			<PropertyValue name="NewProjectDialogPreferredLanguage">VC++</PropertyValue>
+			<PropertyValue name="DefaultToLargeIconView">false</PropertyValue>
+		</Category>
+		<Category name="Environment_ObjectBrowser" Category="{D98D784D-88BF-4EBF-B039-C146EC14F472}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_ObjectBrowser" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="ObjectBrowserViewNamespaces">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserShowHiddenTypesAndMembers">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesSortAlphabetically">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesSortByType">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesSortByAccess">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesGroupByType">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortByBestMatch">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortByType">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortByAccess">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsGroupByType">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewPublic">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewProtected">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewPrivate">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewOther">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersShowInherited">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserShowBaseTypes">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserShowDerivedTypes">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersSortByType">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersSortByAccess">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserScope">{A5A527EA-CF0A-4ABF-B501-EAFE6B3BA5C6}</PropertyValue>
+			<PropertyValue name="DefaultPresentationLanguage">VC++</PropertyValue>
+		</Category>
+		<Category name="Environment_OutputWindow" Category="{07C6CD04-100B-4f3e-BA93-DD1363E8D8E3}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_OutputWindow" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="OutputWindowWordWrap">false</PropertyValue>
+		</Category>
+		<Category name="Environment_PropertiesWindow" Category="{731a3cc7-de5e-49ca-9115-9a03e46624b0}" Package="{7494682b-37a0-11d2-a273-00c04f8ef4ff}" RegisteredName="Environment_PropertiesWindow" PackageName="Windows Forms Designer Package">
+			<PropertyValue name="PbrsAlpha">0</PropertyValue>
+			<PropertyValue name="PbrsShowDesc">1</PropertyValue>
+		</Category>
+		<Category name="Environment_SimplifiedToolsOptions" Category="{13BEDEE6-9051-4809-B9E3-2EEC749EB15A}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_SimplifiedToolsOptions" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="SupportsSimpleToolsOptions">false</PropertyValue>
+			<PropertyValue name="ShowingAllPages">false</PropertyValue>
+			<PropertyValue name="ShowFlatList">false</PropertyValue>
+		</Category>
+		<Category name="Environment_StartPage" Category="{255FE6D3-A0AE-4076-A509-D581B2BE4F9E}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_StartPage" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="MRUCommand1GUID">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="MRUCommand1ID">0</PropertyValue>
+			<PropertyValue name="MRUCommand2GUID">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="MRUCommand2ID">0</PropertyValue>
+		</Category>
+		<Category name="Environment_TaskList" Category="{8EA81A4E-FDB5-4ee8-BD1A-22ECBF73B7CD}" Package="{4A9B7E50-AA16-11d0-A8C5-00A0C921A4D2}" RegisteredName="Environment_TaskList" PackageName="Visual Studio Task List Package">
+			<PropertyValue name="Version">1</PropertyValue>
+			<PropertyValue name="ActiveProvider">{1593EE17-2E95-41F0-8DC6-A0BFE991388F}</PropertyValue>
+			<TaskProviders>
+				<Provider GUID="{1593EE17-2E95-41F0-8DC6-A0BFE991388F}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="19" Visibility="Visible" SortPriority="1" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+				<Provider GUID="{18267819-C975-4292-8741-255590F76EB5}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
+						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
+						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+				<Provider GUID="{5A2D2729-ADFF-4A2E-A44F-55EBBF5DF64B}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
+						<Column Name="Description" Width="19" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
+						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
+						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+				<Provider GUID="{8B277264-F4D9-4AF1-9FC1-27FB974870D5}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
+						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+			</TaskProviders>
+		</Category>
+		<Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="DeletedItemCount">0</PropertyValue>
+			<PropertyValue name="DeletedTabCount">0</PropertyValue>
+			<PropertyValue name="ItemCount">0</PropertyValue>
+			<PropertyValue name="ShowAllTabs">false</PropertyValue>
+			<PropertyValue name="TabCount">0</PropertyValue>
+			<PropertyValue name="Version">1</PropertyValue>
+		</Category>
+		<Category name="Environment_UnifiedFind" Category="{DF00ADDF-C14C-4ffd-9325-634FD605850B}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_UnifiedFind" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Document Options">MatchCase=0 WholeWord=0 Hidden=1 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=0 KeepOpen=0 NameOnly=0 Plain Document Find</PropertyValue>
+			<PropertyValue name="FiF Options">MatchCase=0 WholeWord=0 Hidden=0 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=1 KeepOpen=0 NameOnly=0 Plain Files Find</PropertyValue>
+			<PropertyValue name="Filter">*.*</PropertyValue>
+			<PropertyValue name="FindTextFromEditor">1</PropertyValue>
+			<PropertyValue name="HideFindAfterMatchFound">0</PropertyValue>
+			<PropertyValue name="HitReplaced">1</PropertyValue>
+			<PropertyValue name="In Files Pane Display Options">0</PropertyValue>
+			<PropertyValue name="NumberOfScopes">0</PropertyValue>
+			<PropertyValue name="Options">MatchCase=0 WholeWord=0 Hidden=0 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=1 KeepOpen=0 NameOnly=0 Plain Files Find</PropertyValue>
+			<PropertyValue name="Query">Entire Solution</PropertyValue>
+			<PropertyValue name="Result list">1</PropertyValue>
+			<PropertyValue name="ShowAllReplacementsNotAllowed">1</PropertyValue>
+			<PropertyValue name="ShowCancel">1</PropertyValue>
+			<PropertyValue name="ShowCancelBeforeReplacementsMade">1</PropertyValue>
+			<PropertyValue name="ShowCancelEntireReplaceAfterCancellingSCC">1</PropertyValue>
+			<PropertyValue name="ShowEndOfSearch">1</PropertyValue>
+			<PropertyValue name="ShowFindStart">1</PropertyValue>
+			<PropertyValue name="ShowNoFound">1</PropertyValue>
+			<PropertyValue name="ShowNoMore">1</PropertyValue>
+			<PropertyValue name="ShowReplaceInFilesWarning">1</PropertyValue>
+			<PropertyValue name="ShowSomeReplacementsNotAllowed">1</PropertyValue>
+			<PropertyValue name="Syntax">Regex</PropertyValue>
+		</Category>
+		<Category name="Environment_WindowLayout" Category="{eb4ba109-a9db-4445-bd09-e7604bcdce84}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_WindowLayout" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="WindowLayout">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RjlFQUU0RjdFOEUwRTU3MEU0RjlCRkY5RTU3MEU0RjREQkNFQ0ZCNEEzNjM0OTM1RkYwMEZGRkYwMEZGQjdBMjkzMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGRTU3MEU0MTZFOTVGMTZFOTVGNzJDRjgxNjM0OTM1RkYwMEZGRkYwMEZGQjdBMjkzMTZFOTVGMDAwMDAwMDAwMDAwMDAwMDAwMTZFOTVGMDAwMDAwMDAwMDAwMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGNzJDRjgxNjM0OTM1RkYwMEZGRkYwMEZGQkFBNTk2MTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGMTZFOTVGNjM0OTM1RkYwMEZGRkYwMEZGQkVBOTlBRkZGRkZGRUE4MzRFRTc3QTQzRTI3MjM5RkRGOEY3Q0Y2NDJFQzE1RDJCRkJFRkVCRjlFQ0U2RjhFOEUxRjdFNURDRDFDMUI2NjM0OTM1RkYwMEZGRkYwMEZGQzNBRTlFRkZGRkZGRkZGRkZGRkZGRkZGRkZGREZERkVGQkZBRkRGOUY3RkNGNUYyRkJGMkVFRkFFRkU5RjlFQkU1RjhFOEUxRDFDMUI2NjM0OTM1RkYwMEZGRkYwMEZGQzhCMkEzRkZGRkZGRUE4MzRGRTg3QjQyRTI3MjM5REE2QjMzRkRGQkY5QzE1RDJCQjM1NjI3RkJGMkVERkFFRUU5RjlFQUU0RDFDMUI2NjM0OTM1RkYwMEZGRkYwMEZGQ0NCNkE3RkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZFRkVGQ0ZDRkVGQUY5RkRGN0Y1RkJGNEYxRkJGMUVERkFFRUU4RjlFQUUzNjM0OTM1RkYwMEZGRkYwMEZGRUFBQThCRUFBQThCRUFBQThCRTlBNTg0RTk5RjdBRTc5NzZFRTY4RTYyRTU4NjU2RTM3RDRBRTM3NjQwRTI3MjM5RTI3MjM5RTI3MjM5Qzg2MjJGRkYwMEZGRkYwMEZGRUFBQThCRkZDMkEyRkVDMDlGRkRCRDlBRkNCOTk2RkJCNTkwRkFCMDhCRjlBQjg0RjhBNzdERjZBMjc3RjU5RDcxRjU5OTZBRjM5NTY1Q0Q2NTMxRkYwMEZGRkYwMEZGRUFBQThCRUFBQThCRUFBQThCRUFBQThCRUFBNjg2RTlBMTdGRTg5Qjc2RTc5NDZDRTY4RTYyRTU4NzU4RTQ4MTRFRTQ3QjQ2RTM3NjNFRTI3MjM5RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAMAAAADQ+RhKOLjQEZPrAKDJDyc0BAgAAAAACgAAAEEDYAAAAAUAAABAXOiQ2FPPkQAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjhEMkQ4Q0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjhEMkQ4Q0Q4NzJENzhEMkQ4Q0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkE3OTc4RDk0ODM3Njk1ODI3NjhEMkQ4Q0VDOTVFQkY5QkZGOUM2NUFDNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNUZGMDBGRkZGMDBGRjk5MzMwMEYyRTJEQkUxRENEOEU1NzBFNEY5QkZGOUU1NzBFNEREQzhCQkM2QkZCNjExNzM5NkIxQUNBM0RCQkJBN0RCQkJBN0NGQjRBMzYzNDkzNUZGMDBGRkJGNjYzNUUxQTc2Rjk5MzMwMEYyRTJEQkZDRjVGMkU1NzBFNEZBRUZFOUY5RUFFNDEwOUREMTI3QzVGRjExNzM5NkM2QzdDNkY0REJDRUNGQjRBMzYzNDkzNUZGMDBGRkNDODc0QUY5RTBDN0UxQTc2Rjk5MzMwMEZERjhGNEZCRjRGMUZCRjFFQ0Y5RURFODE0QUFFMUE5RTRGOTM5QkVFRTExNzM5NkY1REVEMkNGQjRBMzYzNDkzNUZGMDBGRkZGMDBGRkQ4OUI1QkY5RTBDN0IyNUUzMEVCQjI5NUUyNzIzOUZDRjNGMENGNjUyRUQyOTE3MDE0QUFFMUE5RTRGOTE1OTJDMEY2RTBENkNGQjRBMzYzNDkzNUZGMDBGRkZGMDBGRkNEQkZCNkQ4OUI1QkZGRkVGRUZFRkNGQkZERjlGN0ZDRjZGNEZCRjRFRkZCRjBFQkZBRUNFNzM5QkVFRUY3RTZEREY2RTJEOUQwQjlBQjYzNDkzNUZGMDBGRkZGMDBGRkM4QjdBQkZGRkZGRkVBODM0RUU3N0E0M0UyNzIzOUZERjhGN0NGNjQyRUMxNUQyQkZCRUZFQkY5RUNFNkY4RThFMUY3RTVEQ0QxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkMzQUU5RUZGRkZGRkZGRkZGRkZGRkZGRkZGRkRGREZFRkJGQUZERjlGN0ZDRjVGMkZCRjJFRUZBRUZFOUY5RUJFNUY4RThFMUQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkM4QjJBM0ZGRkZGRkVBODM0RkU4N0I0MkUyNzIzOURBNkIzM0ZERkJGOUMxNUQyQkIzNTYyN0ZCRjJFREZBRUVFOUY5RUFFNEQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkNDQjZBN0ZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRUZFRkNGQ0ZFRkFGOUZERjdGNUZCRjRGMUZCRjFFREZBRUVFOEY5RUFFMzYzNDkzNUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkU5QTU4NEU5OUY3QUU3OTc2RUU2OEU2MkU1ODY1NkUzN0Q0QUUzNzY0MEUyNzIzOUUyNzIzOUUyNzIzOUM4NjIyRkZGMDBGRkZGMDBGRkVBQUE4QkZGQzJBMkZFQzA5RkZEQkQ5QUZDQjk5NkZCQjU5MEZBQjA4QkY5QUI4NEY4QTc3REY2QTI3N0Y1OUQ3MUY1OTk2QUYzOTU2NUNENjUzMUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkVBQUE4QkVBQTY4NkU5QTE3RkU4OUI3NkU3OTQ2Q0U2OEU2MkU1ODc1OEU0ODE0RUU0N0I0NkUzNzYzRUUyNzIzOUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRgAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAADAAAAAVpgPNSun0hGK0ADAT3nkeQAAAAAAAAoAAABBAwAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAADAAAAAVpgPNSun0hGK0ADAT3nkeQAAAAAAAAoAAABBAwAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAACAADAAAAAVpgPNSun0hGK0ADAT3nkeQAAAAAAAAoAAABBAwAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAADAAAAAVpgPNSun0hGK0ADAT3nkeQAAAAAAAAoAAABBAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAADAAAAA9Y9Lyse/0hGZKQDAT2j9rwAAAAAAAAoAAABBAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAADAAAAAF2PHUTeQ8kyiCmIG/TC0oQAAAAAAAAoAAABBAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAADAAAAAoOYs5jm00BGnnQCgyREAUQQIAAAAAAoAAABBA2AAAAADAAAAv34LegAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkFEOTE4MThDNzU2Mzg3NkY1QzgyNjk1NjdENjQ1MTc4NUY0Qzc0NUE0NzZGNTU0MjZDNTEzRDY4NEQzOTY1NEIzNjYzNDgzM0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkIwOTU4NUZBRUZFOUVCRTNEREU3RENEN0UyRDdEMURGRDFDQURCQ0JDNEQ3QzZCRUQzQzBCOENFQkNCMUNBQjZBQjY1NEIzNUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkIzOTg4OUZCRjJFREZBRjBFQUU3Q0ZDMkIyNTUyN0E2NEYyNTlCNEIyNEU1QzhCOUY3RTREQUY2RTJEOENFQkJCMTY5NEUzOUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkI2OUM4REZDRjRGMEU5RDJDN0M1NUUyQ0U4Q0ZDM0ZBRUNFNkU3Q0JCRjk3NDkyM0U1QzlCQUY3RTREQ0QyQzFCNzZDNTEzREZGMDBGRkZGMDBGRkVBODM0REZGMDBGRkI5QTA5MkVBRDVDQkQ2NjgzMEU5RDNDOEZCRjFFREZCRUZFQUZBRURFOEU3Q0RDMDk0NDgyMkY4RThFMEIxQTVDMDFDMjNDOTEzMTlDNkZGMDBGRkZGMDBGRkU5ODA0OUU3Nzg0MEUxNzEzOEU5RDZDQ0ZDRjZGMzU4NUVEQUNFQzhFNkZBRjBFQkZBRUVFOEZBRURFNkNEQzNERDI2MkNDQzYxNEU1RkZGMDBGRjEzMTlDNkZGMDBGRkZGMDBGRkMwQTc5QkZFRkJGOUZERkFGN0ZDRjhGNUQwQ0NFQTU0NTlEOUNFQzlFNkZCRjFFQ0NFQzZFMzMyMzdDRkI3QUVDOTc4NUY0Q0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkMyQUI5RUZFRkNGQkZFRkJGOUZFRkFGOEZERjlGN0QwQ0NFQjUwNTVEODQ3NERENTNFNDREM0NFQzdFNEUzRDdEMTdENjQ1MEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkM1QUVBM0ZFRkVGRUZFRkNGREZFRkJGQkZFRkFGOUZERjlGN0ZERjdGNUZDRjVGM0ZDRjRGMEZCRjJFRUU2REREODgyNjk1N0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkM4QjNBOEZGRkZGRkZGRkVGRUU1NzUzRERFNkYzNkQ1NjgzMENBNjIyREJENUEyQUIwNTUyN0ZDRjVGMUVBRTJERTg3NkU1Q0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkNCQjZBREZGRkZGRkZGRkZGRkZGRkVGRkZGRkRGREZFRkRGQ0ZFRkNGQkZFRkFGOUZERjhGN0ZERjdGNEVFRTdFNDhENzQ2MkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkNFQkJCMUZGRkZGRkZGRkZGRkU1NzUzRERGNkYzNkQ1NjgzMUNBNjIyREJENUIyOUIwNTQyN0ZFRjlGN0YyRUNFQTkyN0E2OUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQyQzBCNkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkVGRUZFRkVGREZFRkNGQ0ZFRkJGQUY1RjFFRjk3ODA2RkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQ1QzRCQ0ZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZFRkVGREZFRkRGREZFRkNGQjlEODY3NUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQ4QzlDMUQ1QzRCQ0QyQzBCNkNGQkNCMkNDQjhBREM5QjRBOEM2QjBBNEMzQUNBMEMwQTk5Q0JFQTY5OUJCQTI5NEI4OUY5MEZGMDBGRkZGMDBGRgAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAADAAAAAvqmrN1pE0xGZSQDAT2j9CgQIAAAAAAoAAABBA2AAAAADAAAAIWpXVwAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkI3QTI5MzYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNUZGMDBGRkZGMDBGRkI3QTI5M0ZERjhGNkUxRENEOEUwRDdEMkRGRDJDQURGQ0VDM0REQzhCQkRDQzNCM0RCQkZBREVDREFDRERCQkJBN0RCQkJBN0NGQjRBMzYzNDkzNUZGMDBGRkZGMDBGRkI3QTI5M0ZERkJGOUZERjhGNkZDRjVGMkZBRjJFREZBRUZFOUY4REFFN0Y3RThFMEY0RERDRUE2NDkxN0YyRDZDN0Y0REJDRUNGQjRBMzYzNDkzNUZGMDBGRkZGMDBGRkI3QTI5M0ZFRkNGQ0ZFRkFGOUU5RjJGM0ZCRjRGMUZBRTBFRDhEMkQ4Q0Y0RDREOEQ4OUI1QkM5NzM0M0E2NDkxN0YyRDdDNkNGQjRBMzYzNDkzNUZGMDBGRkZGMDBGRkI3QTI5M0ZGRkVGRUVBRjdGQTJDNjg4MkVCRTBGM0Q5NkNEOEM2NUJDNjlGM0Y5MkQ4OUI1QkYzQzM5N0M5NzM0M0E2NDkxN0UzRDFDNTYzNDkzNUZGMDBGRkZGMDBGRkJBQTU5NkVCRjhGRDM5QkVFRTNEOTRCMzRFNkU5NUQ5NkNEOEZFQTNGRUNFNjdDRDk1Mzg4N0Q4OUI1QkYzQzM5N0M5NzM0M0RFQ0FCQzYzNDkzNUZGMDBGRkZGMDBGRkJFQTk5QUVCRjhGRDM5QkVFRTk0RTJGRjNEOTRCMzRFNkU5NUQ5NkNEOEZGQTRGRkRDNzBEQkY1RDVEQUQ4OUI1QkY0RERDRkQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkMzQUU5RUZGRkZGRkVCRjhGRDM5QkVFRTk0RTJGRjNEOTRCM0VCRTJGNkQ5NkNEOEZBRTFFRkZBRUZFOUY2RTNEN0Y4RThFMUQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkM4QjJBM0ZGRkZGRkZGRkZGRkVCRjhGRDM5QkVFRUVBRjdGQkZERkJGOUZDRTZGNUZDRjVGMUZCRjJFREZBRUVFOUY5RUFFNEQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkNDQjZBN0ZGRkZGRkZGRkZGRkZGRkZGRkVCRjhGREZGRkZGRUZFRkNGQ0ZFRkFGOUZERjdGNUZCRjRGMUZCRjFFREZBRUVFOEY5RUFFMzYzNDkzNUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkU5QTU4NEU5OUY3QUU3OTc2RUU2OEU2MkU1ODY1NkUzN0Q0QUUzNzY0MEUyNzIzOUUyNzIzOUUyNzIzOUM4NjIyRkZGMDBGRkZGMDBGRkVBQUE4QkZGQzJBMkZFQzA5RkZEQkQ5QUZDQjk5NkZCQjU5MEZBQjA4QkY5QUI4NEY4QTc3REY2QTI3N0Y1OUQ3MUY1OTk2QUYzOTU2NUNENjUzMUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkVBQUE4QkVBQTY4NkU5QTE3RkU4OUI3NkU3OTQ2Q0U2OEU2MkU1ODc1OEU0ODE0RUU0N0I0NkUzNzYzRUUyNzIzOUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRgAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAADAAAAAQDMkkHq90BGT7wCgyQ8nNAQIAAAAAAoAAABBA2AAAAAFAAAA0XbGiSAAMQAAAAEGAABDM0MzQzNCOEIyQjg2QjY5Njc0NTNGM0I4NTgyODBGRjAwRkZGRjAwRkZCM0IzQjM4QTg5OEE1QjVCNUI5ODk3OTdCRUJFQkVEMkQyRDJGRjAwRkZGRjAwRkZGRjAwRkY4RDhEOERGRkRCQzBGRkM1QTBGRkMyOTU0RjRCNDk0ODQ2NDQ3QTc4Nzc2MDVENUJGRkRBQzBGRkM1OUFGRkIyN0UzNjMwMkNCREJEQkRGRjAwRkZGRjAwRkZGRjAwRkY2OTY3NjZGMkYyRjJGRUQ0QkZGM0IyOEQyRDI0MUUzQjM1MzI2QTY2NjI1RTU5NTZGOUY5RjlGQ0Q1QkJFQkFBODAyMDFCMTcyQjI0MUU2MzQ5MzU2MzQ5MzU2MzQ5MzU3MjcxNzE3MzcyNzI2MjU5NTM3OTc3NzY3NTcwNkRCRUI3QjNEOENDQzRBODlGOTg2RDY5Njc2MzVDNTg2NjVDNTU0QTQxM0MyRjI4MjNEQkJCQTdDRkI0QTM2MzQ5MzVCREJEQkQ2MTYxNjE0NjNGMzk5RDk5OTZGREY4RjZGQ0Y1RjJGQUYyRURGQUVGRTlGOUVBRTRGN0U4RTBGN0U0REJGNkUxRDczMDI4MjNGNERCQ0VDRkI0QTM2MzQ5MzVGRjAwRkZEMkQyRDI2MTYxNjE0NzQxM0NGNkYyRjFGREY4RjRGQkY0RjFGQkYxRUNGOUVERThGOEVBRTNGN0U3REU5ODhBODQyRTI3MjJGNURFRDJDRkI0QTM2MzQ5MzVGRjAwRkZGRjAwRkY4RTgzN0M2MTYxNjE5RTZDNTM2MDVCNThFMjcyMzlGQ0YzRjBDRjY1MkVDMTVEMkFGOUVBRTI3RDcyNkMyRTI4MjNGNkUwRDZDRkI0QTM2MzQ5MzVGRjAwRkZGRjAwRkZCQUE1OTZEREREREQ1ODUyNERCREJCQjlGQ0Y4RjZGQ0Y2RjRGQkY0RUZGQkYwRUJGQUVDRTdDNEI3QjE0MjNFM0FGNkUyRDlEMEI5QUI2MzQ5MzVGRjAwRkZGRjAwRkZCRUE5OUFGRkZGRkZFMzdGNENEQzc2NDNFMDcxMzlGREY4RjdDRjY0MkVDMTVEMkJGQkVGRUJGOUVDRTZGOEU4RTFGN0U1RENEMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZDM0FFOUVGRkZGRkZGRkZGRkZGRkZGRkZGRkZERkRGRUZCRkFGREY5RjdGQ0Y1RjJGQkYyRUVGQUVGRTlGOUVCRTVGOEU4RTFEMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZDOEIyQTNGRkZGRkZFQTgzNEZFODdCNDJFMjcyMzlEQTZCMzNGREZCRjlDMTVEMkJCMzU2MjdGQkYyRURGQUVFRTlGOUVBRTREMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZDQ0I2QTdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkVGRUZDRkNGRUZBRjlGREY3RjVGQkY0RjFGQkYxRURGQUVFRThGOUVBRTM2MzQ5MzVGRjAwRkZGRjAwRkZFQUFBOEJFQUFBOEJFQUFBOEJFOUE1ODRFOTlGN0FFNzk3NkVFNjhFNjJFNTg2NTZFMzdENEFFMzc2NDBFMjcyMzlFMjcyMzlFMjcyMzlDODYyMkZGRjAwRkZGRjAwRkZFQUFBOEJGRkMyQTJGRUMwOUZGREJEOUFGQ0I5OTZGQkI1OTBGQUIwOEJGOUFCODRGOEE3N0RGNkEyNzdGNTlENzFGNTk5NkFGMzk1NjVDRDY1MzFGRjAwRkZGRjAwRkZFQUFBOEJFQUFBOEJFQUFBOEJFQUFBOEJFQUE2ODZFOUExN0ZFODlCNzZFNzk0NkNFNjhFNjJFNTg3NThFNDgxNEVFNDdCNDZFMzc2M0VFMjcyMzlGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYAAAAAAAAAAAACAAAAAAAAAAAAAAAAAgAAwAAAAEAzJJB6vdARk+8AoMkPJzQAAAAAAAAKAAAAQQMAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAgAAwAAAAEAzJJB6vdARk+8AoMkPJzQAAAAAAAAKAAAAQQMAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAgAAwAAAAEAzJJB6vdARk+8AoMkPJzQAAAAAAAAKAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAwAAAAJH/BAVhndARp5QAoMkRAFEECAAAAAAKAAAAQQNgAAAABQAAAAOMKHUGWAhoAAABBgAARkYwMEZGRkYwMEZGRkYwMEZGOEM0NDIxRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGOTI0NzIzOEM0NDIxRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQjk1RDJGQkE2NjNCQTI1NDJEOEY0NjIzRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQzI2RjQ0RjFBQjg1RkQ5NzYwRDc3RjUwQjU2MTM2OEY0NjIzRkYwMEZGQjc5RDhGNjM0OTM1NjM0OTM1NjM0OTM1NjM0OTM1NjM0OTM1NjM0OTM1NjM0OTM1RjBCRkE2RjZCMzhERDA3NjQ3RjRCMThERkQ5NzYwRDU3OTRBQ0VDRUNFRkYwMEZGQkNBMzk2RkJGMkVFRjREQkNGRjNENEM3RjBDRkJGRUZDQUI4RUVDNkIzNjM0OTM1RTc4QjVGRTVCMzlCQkRCREJERDQ3QzREREM4NzVCREFEQURBRkYwMEZGRkYwMEZGQzFBODlDRkVGQUY4RkRGNUYzRkFGMEVCRjhFOUUyRjZFM0RBRUZDQUI4NjM0OTM1REE4ODYxQzNDM0MzRkYwMEZGRTc5QTcxREFEQURBQjc5RDhGNjM0OTM1NjM0OTM1QzRBRUEyRkZGRkZGRkZGQ0ZDRkRGOUY2RkJGNEYwRkFFRUU4RjFDRkMwNjM0OTM1REE4ODYxRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQkNBMzk2RkJGMkVFRjREQkNGQzhCM0E5RkZGRkZGRkZGRkZGRkZGRkZGRkVGQ0ZCRkRGOEY0RjNENUM3NjM0OTM1RDM5QjgwRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQzFBODlDRkVGQUY4RkRGNUYzQ0RCQUFGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRUZERkVGQUY4NjQ0QTM2RkYwMEZGRDM5QjgwRUNEOUUyNjM0OTM1NjM0OTM1QzRBRUEyRkZGRkZGRkZGQ0ZDRDJDMEI2Q0RCOUFGQzhCMkE3QzNBREEwQkZBNzlCQkFBMTkzQjU5QThDQjA5NTg1RkYwMEZGRkYwMEZGQkNBMzk2RkJGMkVFRjREQkNGQzhCM0E5RkZGRkZGRkZGRkZGRkZGRkZGRkVGQ0ZCRkRGOEY0RjNENUM3NjM0OTM1RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQzFBODlDRkVGQUY4RkRGNUYzQ0RCQUFGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRUZERkVGQUY4NjQ0QTM2RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQzRBRUEyRkZGRkZGRkZGQ0ZDRDJDMEI2Q0RCOUFGQzhCMkE3QzNBREEwQkZBNzlCQkFBMTkzQjU5QThDQjA5NTg1RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQzhCM0E5RkZGRkZGRkZGRkZGRkZGRkZGRkVGQ0ZCRkRGOEY0RjNENUM3NjM0OTM1RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQ0RCQUFGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRUZERkVGQUY4NjQ0QTM2RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRDJDMEI2Q0RCOUFGQzhCMkE3QzNBREEwQkZBNzlCQkFBMTkzQjU5QThDQjA5NTg1RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAMAAAACqkndjMvO1S75sBmsOiOztAAAAAAAACgAAAEEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMe1fPNEHSEYPlAMBPmQLBAAAAAAAACgAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAADAADyaRMTLQaiRIZxkf8x77T0AAAAAAAACgAAABECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/dJvH1/GUTK76TSK/4bH5AAAAAAAACgAAAAABAAAAAAAAFQAgBa4BAAAAAAAAAAAAAAAAAAAAAAAAAACNsXw4U2FWQZJXmsP5IHu+BAgAAAAACgAAAgABYAAAAAQAAAB3jctZdZgAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzE2MzQ5MzFGRjAwRkZCNTU5MjlCNTU1MjFBRDUxMjFBRDUxMjFFN0Q3Q0VFN0Q3Q0VFN0NGQzZFN0NCQkRFN0NCQkRFN0M3QjVFN0M3QjVFN0M3QjVFN0M3QjVENkJFQjU2MzQ5MzFGRjAwRkZCRDVEMjlDNjc5NTJDNjc1NTJDNjc1NTJGRkYzRUZGRkVGRUYwMDU1MTAwMDU1MTBGN0U3REVGN0UzREVGN0UzRDZGN0RGRDZGN0RGRDZENkJFQjU2MzQ5MzFGRjAwRkZDNjY1MzFENjlBN0JENjk2NzNENjk2NzNGRkVGRUZGRkVGRUYwMDU1MTAwMEJBMjEwMDU1MTBGN0U3REVGN0UzREVGN0UzRDZGN0RGRDZENkJFQjU2MzQ5MzFGRjAwRkZDRTY5MzkwMDU1MTAwMDU1MTAwMDU1MTAwMDU1MTAwMDU1MTAwMDgyMTgwMEJBMjEwMEJBMjEwMDU1MTBGRkU3REVGN0UzREVGN0UzRDZENkJFQjU2MzQ5MzFGRjAwRkZENjcxNDIwMEJBMjEwMEJBMjEwMEJBMjEwMEJBMjEwMEJBMjEwMEJBMjEwMEQ3MjkwMEU3MjkwMEJBMjEwMDU1MTBGRkU3REVGN0U3REVENkMzQjU2MzQ5MzFGRjAwRkZERTc5NDIwMEQ3MjkwMEU3MjkwMEU3MjkwMEU3MjkwMEU3MjkwMEU3MjkwMEU3MjkwMEVCMzExMEYzMzkwMEJBMjEwMDgyMThGRkU3REVENkNCQzY2MzQ5MzFGRjAwRkZFNzdENEEwMEQ3MjkwMEQ3MjkwMEQ3MjkwMEQ3MjkwMEQ3MjkwMEQ3MjkwMEVCMzExMEY3NDIwMEQ3MjkwMDlBMThGRkVCRTdGRkVCRTdENkNCQzY2MzQ5MzFGRjAwRkZFRjgyNTIwMDlBMTgwMDlBMTgwMDlBMTgwMDlBMTgwMDlBMTgwMDlBMTgwMEQ3MjkwMEQ3MjkwMDlBMThGRkYzRUZGRkVGRTdGRkVCRTdENkNCQzY2MzQ5MzFGRjAwRkZFRjgyNTJGN0FFOENFRkFFOENFRkFFOENGRkZGRkZGRkZGRkYwMDlBMTgwMEQ3MjkwMDlBMThGRkY3RjdGRkYzRUZGRkVGRUZGRkVGRTdENkNCQzY2MzQ5MzFGRjAwRkZFRjgyNTJFRjlBNzNFRjlBNzNFRjlBNzNGRkZGRkZGRkZGRkYwMDlBMTgwMDlBMThGRkZCRjdGRkY3RjdGRkY3RjdGRkYzRUZGRkYzRUZENkNCQzY2MzQ5MzFGRjAwRkZFRjgyNTJFRjgyNTJFRjgyNTJFRjgyNTJGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZFRkVCRTc2MzQ5MzFGRjAwRkZFRjlFN0JFRjlFN0JFRjlFN0JFRjlBNzNFRjlBNzNFRjk2NkJFRjhFNUFFRjgyNTJFRjdENDJFRjcxMzlFRjY5MjlFRjY5MjFFRjY5MjFFRjY5MjFBRDUxMjFGRjAwRkZFRjlFN0JFRjlFN0JFRjlFN0JFRjlFN0JFRjlFN0JFRjlBNzNFRjlBNzNFRjkyNjNFRjhBNUFFRjgyNTJFRjdENDJFRjc1MzlFRjcxMzFFRjY5MjlCRDVEMjlGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/6uJmQq1dPnDKUnxRvGRQAAAAAAAAKAAAAAAEAAAAAAAAVACAFrgEAAAAAAAAAAAAAAAAAAAAAAAAAANwCmib4atMRvcQAwE9ojlAECAAAAAAKAAACAAEgAAAABgAAAPlbYYxPbciJaFYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBf8hGBlqoQ54lhdM7rEn4AAAAAAAACgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAy3C3PrYzSEZMCAFNFAAAABAgAAAAACgAA8AABIAAAAAYAAADlZ35ijFT/ZmJjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUOww6LXC0hGTdQCAx0fZoAAAAAAAAAoAAPAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANE0CU/UO0xGH4ADAT3lxpQAAAAAAAAoAAPAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAACAAQAAfKTbZt9h0hGqeQDAT5kDQwAAAAAAAAoAAAAhAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAACAAQAAIFL67pji0BGPeACgyREAVwQIAAAAAAoAAAAlA2AAAAADAAAAXlwnYAAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjdDNzU3MzRFNEI0QjU0NEY0RDU0NEY0RDU0NEY0RDU2NTE0RDUzNTA0QzUyNEY0QjUyNEY0QzUyNEY0QjUxNEU0QjU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQ5Q0ZDOEZGRkZGRkZCRkRGRkZCRkRGRkZGRkZGNkZGRkZGNkZGRkZGNkZGRjlFQ0ZGRjBFMUZGRUFENUZGRUFEMjU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQyQzhDMUZGRkZGRkM0QUZBMkM0QUZBMkZGRkJGOUM0QUZBMkM0QUZBMkM0QUZBMkM0QUZBMkM0QUZBMkZEREVDQjU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQyQzhDMUZGRkZGRkZCRkRGRkZCRkRGRkZGRkVGQ0ZERkFGOEZCRjRFRkZCRUVFNkZBRTlERUY4RTJEMkZGRTJEMDU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQzQzlDMkZGRkZGRkM0QUZBMkM0QUZBMkZGRkZGRUM0QUZBMkM0QUZBMkM0QUZBMkM0QUZBMkM0QUZBMkZGRTVENjU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQxQzdDMEZGRkZGRkZCRkRGRkZCRkRGRkZGRkZGRkZFRkVGREZFRkJGOEZERjZGMkZDRjBFOEZDRjBFOEZGRTlEQzU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQxQzhDMUZGRkZGRkZCRkRGRkZCRkRGRkZGRkZGRkZGRkZGRkZFRkVGQ0IwQURBQzQxNUM3MkUzRDlEM0ZGRURFMzU0NEU0NkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkQxQzhDMUZGRkZGRkUyRTlFOTVFNzU4NERGRTRFNUZGRkZGRkMyQ0FDRTRBNjE3MDJFQTlENjBCMTAxQjVENUM2MEE0OUQ5NkZGMDBGRkZGMDBGRjkzQjY5OTFDNjYyOURGOUQ3REYxQ0FCNzhGQTRBQzg2RDNFNTRCNjE3MEE3OTI4OTRBNjE3MDYxQzFERTU3NEQ1OTFGRDBGRjE1MjczMzEwMDcwQTAyMjEyRTRGNTY2NTU5Nzg1QjE4OEMzMkRGOUQ3REZGQzVBNEU1QzlCOThGQTRBQzgzRTFGNjRCNjE3MDdBQ0RFMjUyNjA2NzY4RURGRjQxM0Q1MDMyQjJERjFEOTlDODE1OTNDNDE0NjI4RTQwNjY1MTI5OTczRkRGOUQ3RERGOUQ3RERGOUQ3RERBQkFBQThGQTRBQzdGRTNGOTUzODQ5NTY4RURGRjMwM0E0RjY5REJGNjU4RDJGMzQwQzNFRDMxQkJFQTExQThFQzUwOTA4QzMyOUU0MUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjU3NkI4MDY4RURGRjU4OThBRTZFRUJGRjcyRTFGOTZBRERGNzU2Q0ZGMjRCQzdFRDIyQkFGQTVGQTJBNjQxQUM1M0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkMyQzhEMEIwRUJGQTVCNkQ3RjZFRUJGRjZFRUJGRjZFRUJGRjcyRTJGQTY3RDdGNDU0QkREQzUxNzI4QjY5OUM4OTg1Q0M4NUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkEzQUNCODk1QjhDNEMyQzhEMDgxQTZCNTgwOTdBMzgwOTZBMDdBOEY5OTczODU5MzVDNzE4MEJGQzhDRDlBRDNBNDcwQzE3REZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRgAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAZAgAAwIFnW53p0BGZVACgyRvI5QAAAAAAAAoAAAAhgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAZAgAAWV3cV8IRVUmntNdpnWd+kwAAAAAAAAoAAAAhAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAZAgAAWN32c35D0xG4jgDAT3n4AgAAAAAAAAoAAAAhAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAZAgAARxF5SuQZ0xG4awDAT3n4AgAAAAAAAAoAAAAhAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAZAgAAtBjNB6E70hGJCgBgCDGWxgQIAAAAAAoAAAAhAWAAAAAHAAAAj1tEjZBuoXsGdGhWAAABBgAARkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNzI3NDc1QTZCNkJERkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNEQ0RjRGMkI5N0M2NDQ2NTc0RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRjRGMEVERDlDQkMxRTFENkNFRUFFM0RENEI1MDRFMkM5OEM4ODVEOEVFNjI5NUE1RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRDBDNEI5QTE4MDY2QzhBMzdEQkU5ODc1OTE2QjRENDg3NzhDODdEN0VFNjM5NEE0RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRENENENFQjU5RjdCRjlFNUJDRkVFNEJDRjlERUIyREVCQjhGOEQ2QzUyNjE3QjgyRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQzJBQ0EzRUVERkJGRkZGOERGRjlGMEQ1RjJFNkNBRjVEOEIzQ0JBNzdGOEY3RDcyRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQTk5Nzg2RkJGN0U1RkZGRUY5RkFGREY0RjhGMUUwRjhFMUMxRTZDMzk4NzM1QjQ5RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQ0RDM0JCRUFFNEQ5RkZGRUZERkZGRkZCRkRGNkU3RkRFQkM2RDBCNDhCNTE2OTZEMjk1NTZBMjk1NTZBMjY1MjY3MzU1Qzc0MkE1NjZDRkYwMEZGRkYwMEZGRkYwMEZGRTlFNUUyQzdCOEFGRjRGOEVERkZGRkYxRkRGNkRCREVDOUEzOEE2RDU4QTlDRUQyQUZFNUYyQUZFNUYyQTVEQ0VCNDE3QTkxNDJBNEQxMzg3ODkxRkYwMEZGRkYwMEZGRkYwMEZGRTBEOUQzQzBCNUFEQ0ZCREFDQjVBNDg5OUU4NjcwNjU3NTc2NTc4OUEwNTc4OUEwNTc4OUEwNTM4MzlBNUI4NDlDNDZBQkQ5M0M4MDlERkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRjRGMEVERUFFM0RERTFENkNFRUFFM0REN0RBOUJDODdENEVDNUVDMUVBNUVDMUVBNTNCOUU3NERCNEUzM0Y4NEEyNjA4QjlERkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNDA3NzhFODVEOUYzNzFDREVGNjVDNEVCNUFCRUU5M0I3QTk2NzRBMUI0RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNUM5MEEyNzVBMEFEOTZFNEY3ODlEQ0Y1N0RENEYxNkJDNUU4M0I3QTk2RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNkI5QkFBQUZGM0ZEQTlGMEZEQTFFQkZBOTZFNEY4MzQ3Njk0NTNBNEM1Mzg2Rjg0Mzg2QjdGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGMzU2RTg1QURGMUZCQjBGNEZFQUZGM0ZFQTZFRUZCMjc2MTdCNTNBNEM1NUZCMkQzMUM0OTVERkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGN0JBREMwNzZBN0JBNzE5RkI0Njk5N0FENjI4RUE0MzA2Mjc2MzI2Mzc3RkYwMEZGRkYwMEZGAAAAAAAAAAAAAAAAAHEEAABnAAAAPQUAAIYBAACBl+mxgavQEbaDAKoAo+4mBAgAAAAACgADACcBYAAAAAQAAADlXXdRsXsAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYyQTEzODkzMzE5OTFGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY2NjRBMzY5RDg5N0FGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYyRTMxQzYzNDIwOUYzMzE5OTFGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY2QzUyM0VGRUZERkNCQUExOTNGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY0NzQ4Q0IzRDM2QjUzMzE5OTFGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY2NjRBMzZGREZDRkNCRkE2OTlGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY0NzQ4Q0IzRDM2QjUzMzE4OTBGRjAwRkZGRjAwRkY2QzUyM0VGRUZERkNCQUExOTNGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY0NzQ4Q0IzRDM2QjUzODFFODY3NjVDNDhGREZDRkNCRkE2OTlGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY2MTYxQzc4MDY3NTVGREZDRkNDMUFBOUVGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4QzczNjJGREZDRkNDNUFGQTM0NTMzQTJGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY5NTdBNjdGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY5NzgwNkZGREZDRkNDOUI0QTk5QkEyRTk1MzYzRTA0RTNFNjBGRjAwRkZGRjAwRkZGRjAwRkY5OTdFNkNFRkU5RTU5NTdBNjdGRjAwRkY5QTgxNzA4NDY5NTc4ODZGNURGREZDRkNDQUI3QURGRjAwRkZGRjAwRkZBNDlFQUFFMUQzQ0RBQThGN0ZBNDg5NzhBMjg3NzY5Rjg0NzI5ODdENkJGRjAwRkZCN0ExOTBDMkFFQTJDMEFDOURDMkFGQTA5NjdFNkNGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCMzk4ODlFMUQzQ0REOUNBQzNEM0MyQjhBOTkxODBGRjAwRkZGRjAwRkZCN0ExOTBGRjAwRkZGRjAwRkZDMUFEOUY5ODdFNkRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCMzk4ODlFQ0U2RTJFNkRERDhFM0Q3RDJCQ0E4OUNGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZDOUI1QTlCMDk5ODlGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCNzlEOEZGN0Y1RjNGMkVERUFDM0FFQTNGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCN0ExOTBCN0ExOTBGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZDMEE4OUNFNURCRDVEMkMzQjlDRkJEQjRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZEN0M4QzBENEMzQjlENEM0QkNENkM2QkRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYAAAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAGQIAAOqpnAnkCjFOp+T+Cb0XFcwAAAAAAAAKAAAAIQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMAAAAGQIAACdolHSgN9IRonMAwE+O9P8ECAAAAAAKAAEAJwFwAAAACQAAAA1noVJoVkSNkG6hewZ0aFYAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCQkE3OTlCQkE3OTlCNEEwOTFBNjkwODA5Rjg4Nzg5ODgxNzA5MTdBNjk4QTcyNjA3QzYzNTA3NTVCNDg2QjUxM0NGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZDOEI1QTdGRUZERkNFREUzREVFOURERDZFNUQ1Q0NFMENEQzJEQkM1QjlEN0JEQUZEMkI1QTVDREFEOUI3MDU2NDJGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZDOEI1QTdGRUZERkM5NERCOTQ2Q0QyRjVGOUVCRTVDOUI2QTlDMEFCOUVBNDhGN0U4QTcyNjBGMENGQkY3MDU2NDJCQkE3OTlCQkE3OTlCNEEwOTFBNjkwODA5Rjg4NzhDOEI1QTdGRkZFRkVGRUZCRkFGQkYyRUVGOUVFRTdGOUU4RTFGN0U0REFGNkRGRDVGMkQ2QzhGMkQwQzI3MDU2NDJDOEI1QTdGRUZERkNFREUzREVFOURERDZFNUQ1Q0NDRUJDQjJDN0I0QTdCNkE2OThBQjlCOEY5QThCN0M4RjdDNkQ4RjdDNkM4NDczNjE3OTY5NTY3NDVCNDc5OTdFNkNDOEI1QTdGRUZERkM5NERCOTQ2Q0QyRjVGOUVCRTVDOUI2QTlDQ0I5QUZGNkUxRDdGNURFRDNGNERBQ0ZFOENCQkREREJGQjBDOEFCOUE4RkMzOTE5Rjg1NzNGRjAwRkZDOEI1QTdGRkZFRkVGRUZCRkFGQkYyRUVGOUVFRTdGOUU4RTFEQ0I1OUVGRjhDNDdGRjhGNTZGMTdGNDlEODcyNDBCRjYzMzZBQTUxMjhBODUwMkJBMzg4NzZGRjAwRkY5RDhEODRDN0I0QTdCNkE2OThBQjlCOEY5QThCN0M4RjdDNkRERkJDQTlGRjk5NUZGRjlGNkNGQThGNUFFNjgwNEZDRjczNDZCNTVGMzRBNjU1MzBBODhEN0NGRjAwRkZGRjAwRkZDQ0I5QUZGNkUxRDdGNURFRDNGNERBQ0ZFOENCQkRFMkM0QjRGRkE5NzhGRkIwODRGRjlFNkNGNjhDNThERTdFNEVDNjZDNDBBRjVDMzVBQzkxODBGRjAwRkZGRjAwRkZEQ0I1OUVGRjhDNDdGRjhGNTZGMTdGNDlEODcyNDBFNkNDQkRGRkJBOTRGRkJFOUVGRkE5N0JGRjk4NjJGNDhBNTVEQjc5NDhDMTY4M0ZBRjk1ODRGRjAwRkZGRjAwRkZERkJDQTlGRjk5NUZGRjlGNkNGQThGNUFFNjgwNEZFOUNGQzFGRkFBN0JGRkE3NzhGRjlDNjlGRjhCNTNGNDdGNDhEQzZFMzlDMzYyMzJCMjk4ODhGRjAwRkZGRjAwRkZFMkM0QjRGRkE5NzhGRkIwODRGRjlFNkNGNjhDNThEOUIzQTJERkQzQ0VEOUNCQzNENEMzQjlDRUJBQjBDOEIyQTdDMUFCOUZCREE0OTZCNjlEOEZGRjAwRkZGRjAwRkZFNkNDQkRGRkJBOTRGRkJFOUVGRkE5N0JGRjk4NjJGNDhBNTVEQjc5NDhDMTY4M0ZBRjk1ODRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZFOUNGQzFGRkFBN0JGRkE3NzhGRjlDNjlGRjhCNTNGNDdGNDhEQzZFMzlDMzYyMzJCMjk4ODhGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZFNkRDRDhERkQzQ0VEOUNCQzNENEMzQjlDRUJBQjBDOEIyQTdDMUFCOUZCREE0OTZCNjlEOEZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAFvd9nN+Q9MRuI4AwE95+AIAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAPLM//1jX09Ahq0zaT9USUgAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAABoZt+x7WfVBmEMDpM8nXd4AAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAFF+m0oWqtARqMUAoMkhpNIAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAMcShtdimYNLldkmgEba0joAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAABZwVJLQK/5NvU9bUr3OADcAAAAAAAAKAAAAQQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAADKKnlGVHEJKlW8s7i8o6w8AAAAAAAAKAAAAQQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAANGnXZD9GEZKjQ+l/1itqd4AAAAAAAAKAAAAQQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAABK9ViT37IhJpKZn1JFz9WUAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAABK9ViT37IhJpKZn1JFz9WQAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAH0ZxaDHCmNLl82IcqeJ0jMAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAEJwTb4/utIRhA4AwE+ZAsEECAAAAAAKAAAAQQJgAAAAAwAAAK1luXAAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZEOUQ0RTdBRUE4Qzg1MzRGOTE0RDQ3OENBQ0E2QzREOUQ0RTdGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZEOUQ0RTc2MzYxQTczNzM5QTIzMDM0QTkyQzJGQTczMTMyOUE0RDQ4OERBMDlDQkVGRjAwRkZCN0EyOTM2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2NTUzNUI1MDREOTY0MDQ1Qjc0QTUwQzU0QTUwQzI0MjQ3QkEzMzM4QjIyMTIzOUI0RTRCOEZEOUQ0RTdCN0EyOTNGREY4RjZFMURDRDhFMEQ3RDJERkQyQ0FERkNFQzNBMzk5Qjg1OTVDQzE2MzZBRDQ2RDc0RDc2QTcwRDQ1RTYzQ0M0QzUyQkYzNTNBQjIzNDM0OUJBRUE2QzVCN0EyOTNGREZCRjlGREY4RjZGQ0Y1RjJGQUYyRURGQUVGRTlBN0EzRDA2QjcxRDU4MTg4RTM4OTkxRTc4NzhGRTU3ODdGREM2MTY3Q0Q0NjRCQkIzMjM2QTk0RTQ4OENCN0EyOTNGRUZDRkNGRUZBRjlGREY4RjRGQkY0RjFGQkYxRUNBREFDRDc3QzgzREU5NzlFRURBMkFBRjFBMEE3RjA4RDk0RTc3Mjc5RDc1MzU4QzMzQTNFQUY1ODUzOTRCN0EyOTNGRkZFRkVGRUZERkJGREZBRjhGREY3RjRGQ0YzRjBDMUJFREU4ODhEREQ5RkE3RjFBRkI2RjVBREI0RjQ5NjlFRUI3QTgwREI1NTVBQzg0QTRDQUNBQUE2QzVCQUE1OTZGRkZGRkZGRkZFRkVGRUZDRkJGREY5RjdGQ0Y2RjREOUQ2RTg5ODlBREE5ODlFRUFBQUIxRjNBNkFFRjI5Mjk5RTg3MzdBRDk0QzUwQkE2RDZCQUNEOUQ0RTdCRUE5OUFGRkZGRkZGRkZGRkZGRkZFRkRGRUZDRkFGREY4RjdGQ0Y2RjNDQkM5RTQ5QjlEREM5Mjk3RTA4RTk0RTM3QzgxRDk2ODZDQzM1MzRGOTVEOUQ0RTdGRjAwRkZDM0FFOUVGRkZGRkZGRkZGRkZGRkZGRkZGRkZERkRGRUZCRkFGREY5RjdGQ0Y1RjJEOUQ0RTdDMUJFRERCMEFFRDdBOUE1Q0Y5Qjk0QjU2NTUyNUJGRjAwRkZGRjAwRkZDOEIyQTNGRkZGRkZGRkZGRkZGRkZGRkZGRUZFRkVGRUZERkNGREZCRjlGREY4RjVGQ0Y1RjFGQkYyRURGQUVFRTlGOUVBRTREMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZDQ0I2QTdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkVGRUZDRkNGRUZBRjlGREY3RjVGQkY0RjFGQkYxRURGQUVFRThGOUVBRTM2MzQ5MzVGRjAwRkZGRjAwRkZFQUFBOEJFQUFBOEJFQUFBOEJFOUE1ODRFOTlGN0FFNzk3NkVFNjhFNjJFNTg2NTZFMzdENEFFMzc2NDBFMjcyMzlFMjcyMzlFMjcyMzlDODYyMkZGRjAwRkZGRjAwRkZFQUFBOEJGRkMyQTJGRUMwOUZGREJEOUFGQ0I5OTZGQkI1OTBGQUIwOEJGOUFCODRGOEE3N0RGNkEyNzdGNTlENzFGNTk5NkFGMzk1NjVDRDY1MzFGRjAwRkZGRjAwRkZFQUFBOEJFQUFBOEJFQUFBOEJFQUFBOEJFQUE2ODZFOUExN0ZFODlCNzZFNzk0NkNFNjhFNjJFNTg3NThFNDgxNEVFNDdCNDZFMzc2M0VFMjcyMzlGRjAwRkZGRjAwRkYAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAIh4SGhKINMRh+sAwE95caUAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAACF5iA+2wtIRk3UAgMdH2aAAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAACB5iA+2wtIRk3UAgMdH2aAAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAChhgygs/NIRpDMAwE9y0YoAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAHZTi3d3rVFHrNzz0YND+N0AAAAAAAAKAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAEmbObgwc3tIkjV9LpadCnkAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAwAAAAIwZabhz9tJGg65k9RUndxYAAAAAAAAKAAAAQQIAAAAAAAAAAAAAAAAAAAAAAAAAABQCAABtBAAAwgIAAIFu5zRK7tARri4AoMkP/8MECAAAAAAKAAUARwFwAAAAAwAAAJOP+lEAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCN0EyOTM2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZCN0EyOTNGREY4RjZFMURDRDhFMEQ3RDJERkQyQ0FERkNFQzNEREM4QkJEQ0MzQjNEQkJGQUREQkJCQTdEQkJCQTdDRkI0QTM2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZCN0EyOTNGREZCRjlGREY4RjZEMUJGQjZDQUI2QUFDM0FEQTFCRUE1OThCNjlDOERBRjk0ODRGNkUxRDdGNURERDNDRkI0QTM2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZCN0EyOTNGRUZDRkNGRUZBRjlGREY4RjRGQkY0RjFGQkYxRUNGOUVERThGOEVBRTNGN0U3REVGN0UzREJGNkUwRDZDRkI0QTM2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZCN0EyOTNGRkZFRkVGRUZERkJEMkJGQjZDQUI2QUJDNEFEQTFCREE1OThCNjlDOEVBRjk0ODRBODhEN0RGNkUzRDlDRkI0QTM2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZCQUE1OTZGRkZGRkZGRkZFRkVGRUZDRkJGREY5RjdGQ0Y2RjRGQkY0RUZGQkYwRUJGQUVDRTdGOEU5RTJGN0U2REREMEI5QUI2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZCRUE5OUFGRkZGRkZGRkZGRkZGRjlCNjdGQzkzNURGMTg4NTVFMjdENENDRjcyNDRCRjY3M0RGOUVDRTZGOEU4RTFEMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZDM0FFOUVGRkZGRkZGRkZGRkZGRkZGRkZGRkZERkRGRUZCRkFGREY5RjdGQ0Y1RjJGQkYyRUVGQUVGRTlGOUVCRTVEMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZDOEIyQTNGRkZGRkZGRkZGRkZEMkJGQjZDQkI2QUJDNEFEQTBCREE1OThCNjlDOERBRjk0ODRBODhEN0RGQUVFRTlEMUMxQjY2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZDQ0I2QTdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkVGRUZDRkNGRUZBRjlGREY3RjVGQkY0RjFGQkYxRURGOUVBRTM2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZFQUFBOEJFQUFBOEJFQUFBOEJFOUE1ODRFOTlGN0FFNzk3NkVFNjhFNjJFNTg2NTZFMzdENEFFMzc2NDBFMjcyMzlFMjcyMzlDODYyMkZGRjAwRkZGRjAwRkZGRjAwRkZFQUFBOEJFQUFBOEJFQUFBOEJFOUE1ODRFOTlGN0FFNzk3NkVFNjhFNjJFNTg2NTZFMzdENEFFMzc2NDBFMjcyMzlFMjcyMzlDODYyMkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYAAAAAAAAAAAAAAAAAAAAAABQCAABtBAAAwgIAADrqFVQT2EhJtR5WIILOCIcECAAAAAAKAAMARwFgAAAABgAAAAOMKHVPbciJaFYAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjY4MTNEMjY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjY4MTNEMjY4MTNEMjY4MTNEMjY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCN0EyOTM2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjY4MTNEMjY4MTNEMjZGRjAwRkZCN0EyOTNGRkZFRkRFRUVBRTdFREU5RTVFREU3RTJFQ0UzREZFQ0UzRERFQ0UwRDk2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCRUE5OUFGRkZGRkZGRkE1NzRGRjlDNjdGRDkzNUVGMTg4NTVFMTdENENFREUzRTA2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZDM0FFOUVGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZFRkRGRUZDRkJFREU4RTU2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZDOEIyQTNGRkZGRkZGRkE1NzRGRjlDNjdGQzkyNUVGMTg4NTVFMjdFNENFRkVDRTk2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjY4MTNEMjZGRjAwRkZGRjAwRkZDQ0I2QTdGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkY2MzQ5MzVGRjAwRkY4MTNEMjY4MTNEMjY4MTNEMjY4MTNEMjY4MTNEMjZGRjAwRkZGRkFFODFGRkE2NzZGRjlFNkFGRjk2NjBGNzhENTlFQjg0NTFEQzdBNEFDQzcwNDNCRDY3M0Q4MTNEMjZGRjAwRkZGRjAwRkY4MTNEMjY4MTNEMjZGRjAwRkZGRjAwRkZGRkIyODlGRkMyQTJGRkJEOUJGRkI3OTBGRkIwODVGRkE4NzlGRjlGNkNGRjk3NjJDNjZENDE4MTNEMjZGRjAwRkZGRjAwRkY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRkI3OEZGRkFGODVGRkE4NzhGRjlGNkRGRjk3NjJGOThGNUJFRTg1NTNFMDdDNEJEMDcyNDQ4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY4MTNEMjZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkYAAAAAAAAAAAAAAAAAAAAAABQCAABtBAAAwgIAAMxwhFj4hFdKmsSGvKBiX/QECAAAAAAKAAEARwFgAAAABwAAAONOAXiaW0lOl3rjUwAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMEI3QTI5MzYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTAwMDAwMEMxN0M3N0JGNzY3MUJFNzA2REJCNkE2OEJBNjU2NDAwMDAwMEI3QTI5M0ZERjhGNkUxRENEOEUwRDdEMkRGRDJDQURGQ0VDM0REQzhCQkRDQzNCM0RCQkZBRDAwMDAwMEMzODI3QkMxN0M3NkJGNzY3MkJENzA2REJCNkE2ODAwMDAwMEI3QTI5M0ZERkJGOUZERjhGNkZDRjVGMjdFQ0JFMjhGREFFRDhGRTZGODNCQzBFNzk5RDhERjI2NzY4QjY4OUZCNUMzODI3QkMxN0I3N0JGNzY3MkJENzA2RDAwMDAwMEI3QTI5M0ZFRkNGQ0ZFRkFGOUZERjhGNEFCRThGNjMxQjdERjdERTlGRDVEQzZFNjkzRjBGRjJFQjVERTg1QjBCRUM1ODY3RkMzODI3QkMxN0M3NkJGNzY3MTAwMDAwMEI3QTI5M0ZGRkVGRUZFRkRGQkZERkFGODlFRUVGQzkzRjFGRkJGRjhGRkFGRThGNEM3RkJGRjkzRjFGRjhGRDBEREM2OEI4M0M1ODY3RkMzODI3QUMxN0M3NzAwMDAwMEJBQTU5NkZGRkZGRkZGRkVGRUZFRkNGQjIyQUJEOTUzQkZFMUFGRThGNEYwRkZGREI0RUJGNjUzQkZFMTMxQjZFMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMEJFQTk5QUZGRkZGRkZGRkZGRkZGRkVGRDlGRUZGRTk2RjNGRkM3RkJGRkFERTVGM0MzRkJGRjk2RjNGRjlERTlGN0Y3RTVEQ0QxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkMzQUU5RUZGRkZGRkZGRkZGRkZGRkZGRkFCRUNGQzMyQjhFMDhDRjFGRjU4QzJFMzkwRjFGRjJGQjZERjlEREVFREY4RThFMUQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkM4QjJBM0ZGRkZGRkZGRkZGRkZGRkZGRjc0Q0JFNzkxRTBGNTlFRUZGRDI2QUZEQjk1RUJGQjlGRTJGMTkyQ0ZFMkY5RUFFNEQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkNDQjZBN0ZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRUZFRkNGQ0ZFRkFGOUZERjdGNUZCRjRGMUZCRjFFREZBRUVFOEY5RUFFMzYzNDkzNUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkU5QTU4NEU5OUY3QUU3OTc2RUU2OEU2MkU1ODY1NkUzN0Q0QUUzNzY0MEUyNzIzOUUyNzIzOUUyNzIzOUM4NjIyRkZGMDBGRkZGMDBGRkVBQUE4QkZGQzJBMkZFQzA5RkZEQkQ5QUZDQjk5NkZCQjU5MEZBQjA4QkY5QUI4NEY4QTc3REY2QTI3N0Y1OUQ3MUY1OTk2QUYzOTU2NUNENjUzMUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkVBQUE4QkVBQTY4NkU5QTE3RkU4OUI3NkU3OTQ2Q0U2OEU2MkU1ODc1OEU0ODE0RUU0N0I0NkUzNzYzRUUyNzIzOUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRgAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAwAA4vjdOsyBoEGXhdvS2GBkvQAAAAAAAAoAAAARAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAwAAiMk+n3QRRkemajlpcV0fxwAAAAAAAAoAAAARgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAwAAUOj3JaH/0BG2PwCgySLoUQAAAAAAAAoAAAARAgAAAAAAAAAAAAAAAAAAAAAAAAAAZwAAAMwAAAD+AQAAGMkf3i7z102pFReSoFHyawQIAAAAAAoAAAARAWAAAAAGAAAAXlwnYKF7BnRoVgAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjlDODY3NzYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNTYzNDkzNUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkMzQUU5RUZERjlGN0ZCRjNFRkZCRjBFQUY5RUNFNkY4RThFMUY3RTVEQ0Y2RTFEN0Y0REREMkY0REFDRDYzNDkzNUZGMDBGRkZGMDBGRkZGMDBGRjlDODY3NzYzNDkzNUM1QjBBMEY3RUNFQjRCM0QzM0ZDRjNFRjk3ODM3Nzk3ODM3Nzk3ODM3Nzk3ODM3Nzk3ODM3N0Y1REREMjYzNDkzNUI3QTI5MzYzNDkzNTYzNDkzNUMzQUU5RUZERjlGN0M3QjFBMkZGRkRGQ0ZERjlGN0ZDRjZGM0ZCRjNFRkZCRjBFQUZBRUNFNkY5RTlFMUY3RTVEQ0Y2RTFENzYzNDkzNUI3QTI5M0ZERjhGNkUxRENEOEM1QjBBMEY3RUNFQkM5QjNBNUZGRkZGRjRCM0QzM0ZERjhGNzk3ODM3Nzk3ODM3Nzk3ODM3Nzk3ODM3Nzk3ODM3N0Y3RTVEQzYzNDkzNUI3QTI5M0ZERkJGOUZERjhGNkM3QjFBMkZGRkRGQ0NCQjVBNkZGRkZGRkZFRkRGREZFRkJGOUZERjlGNkZDRjZGM0ZCRjNFRkZBRjBFQUY5RUNFNkY4RThFMTYzNDkzNUI3QTI5M0ZFRkNGQ0ZFRkFGOUM5QjNBNUZGRkZGRkNCQjVBNkNCQjVBNkM4QjJBM0M1QjBBMUMzQUU5RkMxQUI5Q0JFQTg5QkJDQTY5OEJBQTQ5NkI5QTM5NTlDODY3N0I3QTI5M0ZGRkVGRUZFRkRGQkNCQjVBNkZGRkZGRkZGRkZGRkZFRkRGREZERjlGNkZDRjZGM0ZCRjNFRkZBRjBFQUY5RUNFNkY4RThFMTYzNDkzNUZGMDBGRkZGMDBGRkJBQTU5NkZGRkZGRkZGRkVGRUNCQjVBNkNCQjVBNkNBQjRBNEM4QjJBM0MzQUU5RkMxQUI5Q0JFQTg5QkJDQTY5OEJBQTQ5NkI5QTM5NTlDODY3N0ZGMDBGRkZGMDBGRkJFQTk5QUZGRkZGRkZGRkZGRkZGRkVGREZFRkNGQUZERjhGN0ZDRjZGM0ZCRjNFRkZCRUZFQkY5RUNFNkY4RThFMUY3RTVEQ0QxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkMzQUU5RUZGRkZGRkZGRkZGRkZGRkZGRkZGRkRGREZFRkJGQUZERjlGN0ZDRjVGMkZCRjJFRUZBRUZFOUY5RUJFNUY4RThFMUQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkM4QjJBM0ZGRkZGRkZGRkZGRkZGRkZGRkZFRkVGRUZFRkRGQ0ZERkJGOUZERjhGNUZDRjVGMUZCRjJFREZBRUVFOUY5RUFFNEQxQzFCNjYzNDkzNUZGMDBGRkZGMDBGRkNDQjZBN0ZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRUZFRkNGQ0ZFRkFGOUZERjdGNUZCRjRGMUZCRjFFREZBRUVFOEY5RUFFMzYzNDkzNUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkU5QTU4NEU5OUY3QUU3OTc2RUU2OEU2MkU1ODY1NkUzN0Q0QUUzNzY0MEUyNzIzOUUyNzIzOUUyNzIzOUM4NjIyRkZGMDBGRkZGMDBGRkVBQUE4QkZGQzJBMkZFQzA5RkZEQkQ5QUZDQjk5NkZCQjU5MEZBQjA4QkY5QUI4NEY4QTc3REY2QTI3N0Y1OUQ3MUY1OTk2QUYzOTU2NUNENjUzMUZGMDBGRkZGMDBGRkVBQUE4QkVBQUE4QkVBQUE4QkVBQUE4QkVBQTY4NkU5QTE3RkU4OUI3NkU3OTQ2Q0U2OEU2MkU1ODc1OEU0ODE0RUU0N0I0NkUzNzYzRUUyNzIzOUZGMDBGRkZGMDBGRgAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAwAA0FExhy7PzEi0v60DlPajwwAAAAAAAAoAAAARAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAAAAwAAwih3LQretUWZqom2Cd/ecwQIAAAAAAoAAAARAWAAAAAFAAAARI2QbsaJ/lYAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY5RTg3Nzc2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzU2MzQ5MzVGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCMTlBOEFGQ0Y1RjFGQUYxRURGQUVERThGOEVBRTJGN0U1RENGNkUxRDdGNURERDI2MzQ5MzVGRjAwRkZGRjAwRkY4RTc2NjU4NzZGNUM3RjY2NTM2ODUzNDE2ODUzNDFCNjlGOEZGREY4RjU5RDg3NzY5RDg3NzY5RDg3NzZGOUU5RTI5RDg3NzZGNkUxRDc2MzQ5MzVGRjAwRkZGRjAwRkY5NzgxNzBGRkZGRkZGMURGRDVEQ0FGOThCMjhBNzdCOUEyOTJGRUZCRjk5RDg3NzZGQ0Y0RjI5RDg3NzZGQUVERTdGOEU5RTJGN0U1REM2MzQ5MzU2MzQ5MzVGRjAwRkZBMThCN0FFQkVFRUVGRkY0RUVGMURGRDVEQ0FGOThCOUEyOTJGRUZERkM5RDg3NzY5RDg3NzY5RDg3NzZGQkYxRUM5RDg3NzZGOUU5RTI2MzQ5MzVGRkRFQ0Q2MzQ5MzVBQTk0ODVDQUMyQjlFMkRBRDVERUQwQzhGMURGRDVCOUEyOTJGRkZGRkZGRkZERkRGREZCRjlGQ0Y4RjVGQ0Y1RjFGQkYxRUNGOUU5RTI2MzQ5MzVGRkRGQ0U2MzQ5MzVCMzlEOEVGRkZGRkZDMUIwQTQ4RDc4NjlERUQwQzhEMDZEM0JDQzYyMkRDMTU4MjRCMjUwMUY5RjQ3MUM4RDQwMUE3RTNBMTg3ODM2MTg3ODM2MThGRkUwRDA2MzQ5MzVCQUE1OTdGRkZGRkZGQ0ZCRkFEQkQxQzNBMUE4RDBDRjgxNUJEMDc2NDhDRjY5MzZDOTVGMjlCRDU2MjJBRDRFMUU5OTQ0MUI4NzNEMTk3QTM3MThGRkUxRDI2MzQ5MzVDMUFEQTBGRkZGRkZGRkZGRkZGRkZGRkY2Mzc3Q0M0RkJFRjgwMDQ4Q0FFOERCRDk4NTZFNUJGRjk1NjFGOThFNUFFRjg3NTNFNDdGNERFMjcyMzlGRkUyRDQ2MzQ5MzVDN0I0QTZGRkZGRkZGRkZGRkZGRkZGRkZENURFRkM4NUE4RUQ5RUI4RjRGQUY5Rjc4RTc3NjZGRjlDNjhGRjk1NjBGODhFNTlFRTg2NTNFMzczMzlGRkU0RDY2MzQ5MzVDQkI4QUJDN0I0QTdDMkFFQTFCQ0E5OUJCNkExOTNBRjlBOEJBODkyODI5Rjg5Nzk5NzgxNzBGRkEyNzBGRjlCNjdGRjk0NUZGNzhENTlFMzczMzlGRkU2RDg2MzQ5MzVGRjAwRkZDOEIyQTNGREZDRjlDNjhFNzJGRkMyQTJGRkVBREZGRkQzQkNGRkJGOUNGRkI1OERGRkE4NzlGRkEyNkZGRjlBNjZGRTk0NUZFMzc0M0FGRUU3REI2MzQ5MzVGRjAwRkZDOUIzQTRGREZERkJDNzhGNzRGRkMyQTJGRkMyQTJGRkJFOUNGRkJBOTVGRkI0OENGRkFFODJGRkE3NzhGRkEwNkVGRjlBNjVFNDc4NDBGRUU5REQ2MzQ5MzVGRjAwRkZDQUI0QTVGREZFRkRDRTlGODdDODkzNzhDNzhDNkZDODhCNkRDODg2NjZDNjdFNUFDNDc3NEZDMzcxNDdDMzZCM0ZDNDY3MzlDQzc0NDVGRUVCRTA2MzQ5MzVGRjAwRkZDQkI1QTZGREZGRkVGREZFRkRGREZERkJGREZDRjlGREZCRjdGREY5RjVGREY3RjNGRUY2RjBGRUY0RUVGRUYyRUJGRUYwRThGRUVGRTZGRUVERTM2MzQ5MzVGRjAwRkZGRjAwRkZDQkI1QTZDQUI0QTVDOUIzQTRDOEIyQTNDN0IxQTJDNUIwQTFDNEFFOUZDM0FEOUVDMUFDOURDMEFBOUJCRUE5OUFCREE4OTlCQ0E3OThGRjAwRkYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAompjIhAXhIleWA0vCOpMsECAAAAAAKAAAAEQFgAAAACAAAAFYAQQAgAFYAaQBlAHcAAAABBgAARkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNUE4NEY5Mjk2MEY3MTY1MEY2MTI0REY2MUU1N0Y2NEU3QkY3RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNUM4NkY4MkQ2NEY4MjQ1REY4MjI1Q0Y3MUU1OEY3MTk1NEY3MTQ1MEY2MEY0Q0Y2MTM0RUY2NDU3MkY3RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNTE4MUY5MkU2N0Y5MkY2OEZBMkQ2NkY4MkI2NEY5Mjc2MUY5MjE1Q0Y4MUM1N0Y4MTY1MUY3MTU1MEY3MEQ0QUY2NTU4MEY4RkYwMEZGRkYwMEZGRkYwMEZGNzM5QUZBMzc2RkZBMzc3MEZCMzg3MUZCMzY2RkZBMzQ2REZBMzA2OUY5MkE2MkY5MjQ1REY4MUQ1N0Y4MTU1MEY3MEQ0QUY2MEE0NkY1NTU4MEY4RkYwMEZGRkYwMEZGNDA3NkZBNDI3OEZCNDM3QUZCNDQ3QUZCNDE3OEZCM0Q3NEZCMzk3MEZBMzE2QUZBMkI2NUY5MjM1RUY4MUM1N0Y4MTQ0RkY2MEQ0OUY1MEQ0OUY1RkYwMEZGRkYwMEZGNEE3RUZBNEI4MUZCNEQ4MkZCNEM4MUY2NDY3Q0VDNDQ3QkY3M0U3NEYzMzY2RUY2MzA2OEY5Mjg2MUY5MjA1QUY4MTc1MkY3MEY0QkY2MTA0QkY1RkYwMEZGRkYwMEZGNzc5RUZCNTM4N0ZENTc4QkZENTI4NkVEMzI2Njk4NDA3NUQ1MkM2MDlGMzg2RUU5MzQ2Q0Y5MkM2NEY5MjQ1Q0Y4MUE1NEY3MTE0REY2NDg3N0Y3RkYwMEZGRkYwMEZGRkYwMEZGNTc4NkQ1NDY3N0JBNEE3QkM4Mjc1QjZDMUM1MDVCMEQ0MTJDMzE2N0M5MkI2MUM3MjA1N0IyMUI1M0JCMTk1MkU3Mjc1REY2RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNTU4MEE1MUY1MDQ0MEIzRDFEMDUzODBGMDQzNzBFMDIzNTA2MDUzOTE2MTQ0OTY0MjY1QUFGNEM3QUVFRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGOThCMUJDNzQ5N0I5MkE1OTU3M0U2Qzg0Mzk2NjcwMzk2NDYxNDE2RDg0Nzk5OUQwRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGNDQ2QjU3RkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaHVyOkYoGRKpWW/J8l9Y8BAgAAAAACgAAABEBYAAAAAsAAABWAEEAIABPAHUAdABsAGkAbgBlAAAAAQYAAEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjgwODA4MEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjgwODA4MEZGRkZGRkZGRkZGRjgwMDA4MEZGRkZGRjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjgwODA4MEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjgwODA4MEZGRkZGRkZGRkZGRjgwODA4MEZGRkZGRjAwMDAwMDAwMDAwMDAwMDAwMEZGRkZGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjgwODA4MEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjVBODRGOTI5NjBGNzE2NTBGNjgwODA4MEZGRkZGRkZGRkZGRjgwODA4MEZGRkZGRjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMEZGMDBGRkZGMDBGRjVDODZGODJENjRGODI0NURGODIyNUNGNzFFNThGNzgwODA4MEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGMDBGRjUxODFGOTJFNjdGOTJGNjhGQTJENjZGODJCNjRGOTI3NjFGOTgwODA4MEZGRkZGRkZGMDAwMEZGRkZGRjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDczOUFGQTM3NkZGQTM3NzBGQjM4NzFGQjM2NkZGQTM0NkRGQTMwNjlGOTgwODA4MEZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRjQwNzZGQTQyNzhGQjQzN0FGQjQ0N0FGQjQxNzhGQjNENzRGQjM5NzBGQTgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDRBN0VGQTRCODFGQjREODJGQjRDODFGNjQ2N0NFQzQ0N0JGNzNFNzRGMzM2NkVGNjMwNjhGOTI4NjFGOTIwNUFGODE3NTJGNzBGNEJGNjEwNEJGNUZGMDBGRkZGMDBGRjc3OUVGQjUzODdGRDU3OEJGRDUyODZFRDMyNjY5ODQwNzVENTJDNjA5RjM4NkVFOTM0NkNGOTJDNjRGOTI0NUNGODFBNTRGNzExNERGNjQ4NzdGN0ZGMDBGRkZGMDBGRkZGMDBGRjU3ODZENTQ2NzdCQTRBN0JDODI3NUI2QzFDNTA1QjBENDEyQzMxNjdDOTJCNjFDNzIwNTdCMjFCNTNCQjE5NTJFNzI3NURGNkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjU1ODBBNTFGNTA0NDBCM0QxRDA1MzgwRjA0MzcwRTAyMzUwNjA1MzkxNjE0NDk2NDI2NUFBRjRDN0FFRUZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjk4QjFCQzc0OTdCOTJBNTk1NzNFNkM4NDM5NjY3MDM5NjQ2MTQxNkQ4NDc5OTlEMEZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRjQ0NkI1N0ZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRkZGMDBGRgAAAAAAAAAAAAAAAAAAAAAAZwAAAMwAAAD+AQAAJq7AyXeq0hGz8AAA+HVw7gQIAAAAAAoAAAARAWAAAAAEAAAAe3zGif5WAAABBgAARkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGOTkzMzAwRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGQjU2MzM1RDg5QjVCOTkzMzAwRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRDg5QjVCRkZDRDk5RTlCNDdDRDg5QjVCOTkzMzAwRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRDg5QjVCRkZDRDk5RTlCNDdDRDg5QjVCOTkzMzAwQjdBMjkzNkE1RDUyNkE1RDUyNkE1RDUyNkE1RDUyNkE1RDUyNkE1RDUyNkE1RDUyQTFBMUExQTFBMUExQTFBMUExQUFBMDk1RDg5QjVCRkZDRDk5Qzk3MzQzRkYwMEZGQjdBMjkzRkZGRkZGRkNGNUYyRkJGMkVERjlFRUU4RjhFQUUzRjdFN0RFRjZFMkQ5QTFBMUExRjREQUNFRjNENkM4RjFEMkMzRURCREI2RDg5QjVCRkYwMEZGRkYwMEZGQjdBMjkzRkZGRkZGRkNGOEY1RkNGNUYyMTE3Mzk2RkFFRUU3RjlFOUUyRjdFNkREQTFBMUExRjREREQyRjREOUNERjNDOUNGOEQyRDhDOTA2RjZDRkYwMEZGRkYwMEZGQjdBMjkzRkZGRkZGRkRGQUY5MUE4RUI4MERBRUVCMTE3Mzk2RjlFREU2RjhFOUUxQTFBMUExRjZFMUQ2RjREMEQ3QjMzQ0IyREM3MERCOEQyRDhDRkYwMEZGRkYwMEZGQjdBMjkzRkZGRkZGMUE4RUI4MkRCREVGNTRDREYyMERBRUVCMTE3Mzk2QTFBMUExQTFBMUExQUY5RUFGRDk2Q0Q4RkFBREZBRkI5OEZBREM3MERCOEQyRDhDRkYwMEZGQjdBMjkzMzlCRUVFOEZFNUY2N0RERUY0NTRDREYyNTRDREYyMERBRUVCMTE3Mzk2RjlFQkU0RjhFOEUwRjZENERFRDM2NUQyRkFBREZBRkI5OEZBREM3MERCOEQyRDhDQjdBMjkzRkZGRkZGMzlCRUVFOEZFNUY2N0RERUY0NTRDREYyNTRDREYyMERBRUVCMTE3Mzk2RjlFQkU0RjdFNkRGRjZENERFRDM2NUQyRkFBREZBRDM2NUQyRkYwMEZGQjdBMjkzRkZGRkZGRkZGRkZGMzlCRUVFOEZFNUY2N0RERUY0NTRDREYyNTRDREYyMTc5OEM4RkFFREU3RjlFQUUzRjdFNkRFRjdENERERDM2NUQyRkYwMEZGRkYwMEZGQjdBMjkzRkZGRkZGRkZGRkZGRkZGRkZGMzlCRUVFOEZFNUY2N0RERUY0MTc5OEM4RkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGODE2NjZGRkYwMEZGRkYwMEZGQzg4QjZERkRCQTk2RkRCQTk2RjZBRTg5RUZBMjc5MzlCRUVFMzlCRUVFRTU4RTYxRTE4NzU5REU4MTUxREI3QzRCRTA3QjQ4RTA3QjQ4NkE1RTU0RkYwMEZGRkYwMEZGREE5Nzc2REE5Nzc2RDU5NDczQ0U4RjcwQzY4OTZCQkQ4MjY3QjM3QzYxQTg3NTVCOUY2RjU3OTc2QTUzOTA2NTRFOEI2MTRDOEI2MTRDOEI2MTRDRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGRkYwMEZGAAAAAAAAAAAAAAAAAAAAAABnAAAAzAAAAP4BAAAxkOc6vOHQEY94AKDJEQBXBAgAAAAACgAAABEBYAAAAAoAAADjibNRuWVIaESNkG6hewZ0aFYAAAEGAABGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY3Mjc0NzVBNkI2QkRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY0RDRGNEYyQjk3QzY0NDY1NzRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkY0QjUwNEUyQzk4Qzg4NUQ4RUU2Mjk1QTVGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZBMTgwNjZDOEEzN0RCRTk4NzU5MTZCNEQ0ODc3OEM4N0Q3RUU2Mzk0QTRGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZCNTlGN0JGOUU1QkNGRUU0QkNGOURFQjJERUJCOEY4RDZDNTI2MTdCODJGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZGRjAwRkZDMkFDQTNFRURGQkZGRkY4REZGOUYwRDVGMkU2Q0FGNUQ4QjNDQkE3N0Y2NDRCM0E2MzQ5MzU2MzQ5MzU2MzQ5MzU1QzZDNzk1NTYzNzE0RDVCNjk0NzU1NjQ0MjRGNUZBOTk3ODZGQkY3RTVGRkZFRjlGQUZERjRGOEYxRTBGOEUxQzFFNkMzOTg3MzVCNDlEQkJCQTdDRkI0QTM2MzQ5MzU2QTdCODc1MEM3RjMyRkFEREYxQ0EwRDIxMDlCRDA5RUFFQjFFQUU0RDlGRkZFRkRGRkZGRkJGREY2RTdGREVCQzZEMEI0OEJCMkFDQTJGNkUwRDZDRkI0QTM2MzQ5MzU3Mjg0OEY5MEVDRkU3RURFRjQ2MEQyRjI0MEM0RjA1QUI3RDhDN0I4QUZGNEY4RURGRkZGRjFGREY2REJERUM5QTM4QTZENThFM0NFQzFGNkUyRDlEMEI5QUI2MzQ5MzU3QThDOTZBQkZDRkY5OUU4RjY3RURFRjQ2MEQyRjM0MEM1RjE1QUEwQjlDMEI1QURDRkJEQUNCNUE0ODk5RTg2NzBDRUI2QTZGOEU4RTFGN0U1RENEMUMxQjY2MzQ5MzU4MDk0OUVCMUZFRkZCMUZFRkZCMUZFRkY4Q0U0Rjc0RUNCRjIyNUE2RDk0RjU1NURFOERFRDZERkNGQzVFN0Q4Q0ZGQUVGRTlGOUVCRTVGOEU4RTFEMUMxQjY2MzQ5MzU4Q0ExQTkyM0I4RUYyM0I4RUYyM0I4RUY3QThDOTc3QThDOTc3QThDOTdCOUMyQzdGREZCRjlGREY4RjVGQ0Y1RjFGQkYyRURGQUVFRTlGOUVBRTREMUMxQjY2MzQ5MzVCREQ3REU4RkE0QUM4NzlDQTQ4MDk0OURCNUFGQTlGRkZGRkZGRkZGRkZGRkZGRkVGRUZDRkNGRUZBRjlGREY3RjVGQkY0RjFGQkYxRURGQUVFRThGOUVBRTM2MzQ5MzVGRjAw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9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAACAADAAAAAVsyL9/dxfU6CFfaQyuT0UgAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAADAAAAAfRnFoMcKY0uXzYhyp4nSMwAAAAAAAAoAAABBAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAADAAAAA8sz/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</PropertyValue>
+			<PropertyValue name="WindowLayout_Length">73649</PropertyValue>
+			<PropertyValue name="WindowLayoutVersion">30604</PropertyValue>
+			<PropertyValue name="MDIMode">1</PropertyValue>
+		</Category>
+	</Category>
+	<Category name="Environment_Help" RegisteredName="Environment_Help">
+		<Category name="Environment_Help_Options" Category="{C7C72A03-D951-428f-9F0D-D29D9E038FAA}" Package="{4A791146-19E4-11D3-B86B-00C04F79F802}" RegisteredName="Environment_Help_Options" PackageName="Visual Studio Help Package">
+			<PropertyValue name="AlsoShowEnglishTopics">true</PropertyValue>
+			<PropertyValue name="CurrentChannel">VCHowDoI80</PropertyValue>
+			<PropertyValue name="DeveloperCenter">http://go.microsoft.com/fwlink/?LinkId=47810&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+			<PropertyValue name="External">true</PropertyValue>
+			<PropertyValue name="HighlightTerms">True</PropertyValue>
+			<PropertyValue name="ItemsPerPage">20</PropertyValue>
+			<PropertyValue name="LocalSearchPartialMatches">true</PropertyValue>
+			<PropertyValue name="PrimaryLanguage">9</PropertyValue>
+			<PropertyValue name="ProfileDevLanguages">C++</PropertyValue>
+			<PropertyValue name="ReuseTopic">true</PropertyValue>
+			<PropertyValue name="SearchProviderPreferences">&lt;Provider Type="SearchProviderTypeLocalHelp" Enabled="True" /&gt;&lt;Provider Type="SearchProviderTypeMsdnOnline" Enabled="True" /&gt;&lt;Provider Type="SearchProviderTypeCodeWise" Enabled="True" /&gt;&lt;Provider Type="SearchProviderTypeQuestions" Enabled="True" /&gt;</PropertyValue>
+			<PropertyValue name="ShowAbstract">True</PropertyValue>
+			<PropertyValue name="UseLocalHelpF1">true</PropertyValue>
+			<PropertyValue name="UseMSDNOnlineF1">true</PropertyValue>
+			<PropertyValue name="UseMSDNOnlineF1First">true</PropertyValue>
+			<PropertyValue name="UseOnlineContent">true</PropertyValue>
+		</Category>
+	</Category>
+	<Category name="HTML Tag Specific" Category="{7583bb73-a453-40e8-8951-b6986ddb1d9b}" Package="{1B437D20-F8FE-11D2-A6AE-00104BCC7269}" RegisteredName="HTML Tag Specific" PackageName="Visual Studio HTM Editor Package"/>
+	<Category name="WindowsFormsDesigner_General" Category="{de03177c-918d-40af-8c17-c9d63670c175}" Package="{7b5d447b-0b12-41ea-a84e-c822034422d4}" RegisteredName="WindowsFormsDesigner_General" PackageName="Windows Forms Designer Resources Package">
+		<PropertyValue name="AutoToolboxPopulate">False</PropertyValue>
+		<PropertyValue name="EnableInSituEditing">True</PropertyValue>
+		<PropertyValue name="EnableRefactoringOnRename">True</PropertyValue>
+		<PropertyValue name="GridSize">8, 8</PropertyValue>
+		<PropertyValue name="Language">(Default)</PropertyValue>
+		<PropertyValue name="LayoutMode">SnapLines</PropertyValue>
+		<PropertyValue name="ObjectBoundSmartTagAutoShow">True</PropertyValue>
+		<PropertyValue name="ShowGrid">True</PropertyValue>
+		<PropertyValue name="SnapToGrid">True</PropertyValue>
+		<PropertyValue name="UseOptimizedCodeGeneration">True</PropertyValue>
+	</Category>
+	<Category name="XmlEditor" Category="{4E1CDE49-B840-4826-8CC6-8FB80D7EF455}" Package="{87569308-4813-40a0-9cd0-d7a30838ca3f}" RegisteredName="XmlEditor" PackageName="Visual Studio XML Editor Package">
+		<PropertyValue name="AttributeFormatting">None</PropertyValue>
+		<PropertyValue name="AutoDownload">True</PropertyValue>
+		<PropertyValue name="AutoInsertAttributeQuotes">True</PropertyValue>
+		<PropertyValue name="AutoInsertEndTags">True</PropertyValue>
+		<PropertyValue name="AutoInsertNamespaceDeclarations">True</PropertyValue>
+		<PropertyValue name="AutoInsertOther">True</PropertyValue>
+		<PropertyValue name="AutoOutlining">True</PropertyValue>
+		<PropertyValue name="AutoReformatOnEndTag">True</PropertyValue>
+		<PropertyValue name="AutoReformatOnPaste">True</PropertyValue>
+		<PropertyValue name="FormatMixedContentByDefault">True</PropertyValue>
+		<PropertyValue name="SchemaCacheLocation">%VsInstallDir%\xml\Schemas</PropertyValue>
+	</Category>
+</UserSettings>

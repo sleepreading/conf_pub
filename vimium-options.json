@@ -1,0 +1,26 @@
+{
+  "settingsVersion": "1.67",
+  "exclusionRules": [
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": ""
+    }
+  ],
+  "filterLinkHints": false,
+  "waitForEnterForFilteredHints": true,
+  "hideHud": false,
+  "keyMappings": "unmap w\nunmap e\nmap e nextTab\nmap w previousTab\nmap J nextTab\nmap K previousTab\nmap R reload hard\nmap , goPrevious\nmap . goNext",
+  "linkHintCharacters": "sadfjklewcmpgh",
+  "linkHintNumbers": "0123456789",
+  "newTabUrl": "about:newtab",
+  "nextPatterns": "next,more,newer,>,›,→,»,≫,>>,下一页,下一頁,下1页,下1頁,下页,下頁,翻页,翻頁,翻下頁,翻下页,下一张,下一張,下一幅,下一章,下一节,下一節,下一篇,后一页,後一頁,前进,下篇,后页,往",
+  "previousPatterns": "prev,previous,back,older,<,‹,←,«,≪,<<,上一页,上一頁,上1页,上1頁,上页,上頁,翻上頁,翻上页,上一张,上一張,上一幅,上一章,上一节,上一節,上一篇,前一页,前一頁,后退,後退,上",
+  "regexFindMode": false,
+  "ignoreKeyboardLayout": false,
+  "scrollStepSize": 60,
+  "smoothScroll": true,
+  "grabBackFocus": false,
+  "searchEngines": "g: https://www.google.com/search?q=%s Google\ny: https://www.youtube.com/results?search_query=%s Youtobe\nb: https://www.baidu.com/s?wd=%s Baidu\ngh: https://github.com/search?q=%s GitHub\nzh: https://www.zhihu.com/search?type=content&q=%s 知乎\njd: https://search.jd.com/Search?keyword=%s 京东\ntb: https://s.taobao.com/search?q=%s 淘宝\ndb: https://www.douban.com/search?q=%s 豆瓣\nyk: https://so.youku.com/search_video/q_%s 优酷\nbz: https://search.bilibili.com/all?keyword=%s B站",
+  "searchUrl": "https://www.google.com/search?q=",
+  "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFF785),\n  color-stop(100%,#FFC542));\nborder: 1px solid #E3BE23;\n}\n\ndiv > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n}"
+}

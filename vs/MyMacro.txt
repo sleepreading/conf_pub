@@ -1,0 +1,202 @@
+'
+' VS2010
+'
+Sub MyIfNotDef()
+    'DESCRIPTION: 头文件#ifndef
+    ActiveDocument.Selection.StartOfDocument()
+    Dim FileName, Name, i
+    FileName = ActiveDocument.Name
+    i = InStr(FileName, ".")
+    If i > 1 Then
+        Name = Left(FileName, i - 1)
+    Else
+        Name = "unknownfilename"
+    End If
+    Name = UCase(Name)
+    ActiveDocument.Selection.Text = "#ifndef __" + Name + "_H__"
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "#define __" + Name + "_H__"
+	ActiveDocument.Selection.NewLine
+	ActiveDocument.Selection.NewLine()
+	ActiveDocument.Selection.EndOfDocument()
+	ActiveDocument.Selection.Text = "#endif"
+	ActiveDocument.Selection.StartOfDocument()
+	ActiveDocument.Selection.LineDown(False,2)
+End Sub
+
+Sub MyFileHead()
+	Dim d
+	d = Now
+    'DESCRIPTION: 文件注释 标准格式
+    ActiveDocument.Selection.StartOfDocument()
+    Dim FileName
+    FileName = ActiveDocument.Name
+    ActiveDocument.Selection.Text = "/**"
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = " * @file      " + FileName
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "* @date      " & Year(d) & "-" &Month(d) & "-" & Day(d) & " " & CStr(Hour(d)) + ":" + CStr(Minute(d)) + ":" + CStr(Second(d))
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "* @author    leizi"
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "* @copyright zhanglei. sleepreading.top"
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "* @remark    "
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "*/"
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.LineUp(False, 2)
+    ActiveDocument.Selection.EndOfLine()
+End Sub
+
+Sub MyFunctionHead( )
+'DESCRIPTION: 函数注释 标准格式
+Dim Header, Reti, RetTp, Loc, Loc2, fcName
+ActiveDocument.Selection.StartOfLine(vsStartOfLineOptions.vsStartOfLineOptionsFirstText)
+ActiveDocument.Selection.EndOfLine(True)
+Header = ActiveDocument.Selection.Text
+Header = Trim(Header)
+'Get the function return type.
+if Header <> "" then
+    Reti = InStr(Header," ")
+    Loc  = InStr(Header,"(")
+    if Reti < Loc Then
+        RetTp  = Left(Header,Reti)
+        Header = Right(Header,Len(Header) - Reti)
+    End If
+    'Get the function name.
+    Loc  = InStr(Header,"(") - 1
+    Loc2 = InStr(Header,")")
+    if Loc > 0 And Loc2 > 0 then 'make sure there is a ( and a )
+        fcName = Left(Header,Loc)
+        Header = Right(Header,Len(Header) - Len(fcName))
+        'Do we have storage type on the return type?
+        Trim (fcName)
+        If InStr(fcName," ") <> 0 Then
+            retTp  = retTp + Left(fcName,InStr(fcName," "))
+            fcName = Right(fcName,Len(fcName) - InStr(fcName,"   "))
+        End If
+        'Position the cursor one line above the selected text.
+        ActiveDocument.Selection.StartOfLine(vsStartOfLineOptions.vsStartOfLineOptionsFirstText)
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.LineUp
+        ActiveDocument.Selection.Text = "/**"
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = " * " + fcName
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection.Text = "* @brief   "
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = "* @param   "
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = "* @return  " + RetTp
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = "* @note    "
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = "* @code    "
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = "* @endcode "
+        ActiveDocument.Selection.NewLine()
+        ActiveDocument.Selection.Text = "*/"
+        ActiveDocument.Selection.LineUp(False, 6)
+        ActiveDocument.Selection.EndOfLine()
+    End  if
+End If
+End Sub
+
+Sub MyCommentSmall()
+    'DESCRIPTION: standard multiline comment
+    'Begin Recording
+    ActiveDocument.Selection.Text = "/**"
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = " * "
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.Text = "*/"
+    ActiveDocument.Selection.LineUp()
+    ActiveDocument.Selection.EndOfLine()
+    'End Recording
+End Sub
+
+Sub MyCutToHead()
+    'DESCRIPTION: 剪贴到行首
+    ActiveDocument.Selection.StartOfLine(vsStartOfLineOptions.vsStartOfLineOptionsFirstText, True)
+    ActiveDocument.Selection.Cut()
+End Sub
+
+Sub MyCutToTail()
+    'DESCRIPTION: 剪贴到行尾
+    ActiveDocument.Selection.EndOfLine(True)
+    ActiveDocument.Selection.Cut()
+End Sub
+
+Sub MyLineOpenAbove()
+    'DESCRIPTION: MyLineOpenAbove
+    ActiveDocument.Selection.StartOfLine(vsStartOfLineOptions.vsStartOfLineOptionsFirstText)
+    ActiveDocument.Selection.NewLine()
+    ActiveDocument.Selection.LineUp()
+End Sub
+
+Sub MyLineOpenBelow()
+    'DESCRIPTION: 下开一行
+    'Begin Recording
+    ActiveDocument.Selection.EndOfLine()
+    ActiveDocument.Selection.NewLine()
+    'End Recording
+End Sub
+
+Sub MyJumpCurLine()
+    'DESCRIPTION: 复制当前行于下一行,定位光标至副本尾部
+    DTE.ActiveDocument.Selection.StartOfLine(vsStartOfLineOptions.vsStartOfLineOptionsFirstText)
+    DTE.ActiveDocument.Selection.EndOfLine(True)
+    DTE.ActiveDocument.Selection.Copy()
+    DTE.ActiveDocument.Selection.CharRight()
+    DTE.ActiveDocument.Selection.NewLine()
+    DTE.ActiveDocument.Selection.Paste()
+End Sub
+
+Sub MyAddSemicolon()
+    'DESCRIPTION: 于段末添加分号;
+    DTE.ActiveDocument.Selection.EndOfLine()
+    DTE.ActiveDocument.Selection.Text = ";"
+End Sub
+
+Sub MyAddBracketWord()
+    'DESCRIPTION: 添加括号于字符
+    DTE.ActiveDocument.Selection.WordLeft()
+    DTE.ActiveDocument.Selection.Text = "("
+    DTE.ActiveDocument.Selection.WordRight()
+    DTE.ActiveDocument.Selection.Text = ")"
+End Sub
+
+Sub MyCopyWord()
+    'DESCRIPTION: 复制光标下的单词
+    'Begin Recording
+    DTE.ActiveDocument.Selection.WordLeft()
+    DTE.ActiveDocument.Selection.WordRight(True)
+    DTE.ActiveDocument.Selection.Copy()
+    'End Recording
+End Sub
+
+Sub MyPasteWord()
+    'DESCRIPTION: 复制光标下的单词
+    'Begin Recording
+    DTE.ActiveDocument.Selection.WordLeft()
+    DTE.ActiveDocument.Selection.WordRight(True)
+    DTE.ActiveDocument.Selection.Paste()
+    'End Recording
+End Sub
+
+Sub MyAddTMacro()
+    'DESCRIPTION: 使用_T包裹字符串.注意:只能替换一行中的第一个字符串
+    Dim myArray, s
+    ActiveDocument.Selection.SelectLine()
+    s = ActiveDocument.Selection.Text
+    If Len(s) > 1 Then
+        myArray = Split(s, Chr(34), -1, 1)
+        If UBound(myArray) = 2 Then
+            ActiveDocument.Selection.Text = myArray(0) & "_T(" & Chr(34) & myArray(1) & Chr(34) & ")" & myArray(2)
+            ActiveDocument.Selection.LineUp()
+        End If
+    End If
+    ActiveDocument.Selection.EndOfLine()
+End Sub
+

@@ -1,0 +1,225 @@
+'------------------------------------------------------------------------------
+'FILE DESCRIPTION: New Macro File
+'------------------------------------------------------------------------------
+Sub MyIfNotDef()
+'DESCRIPTION: 头文件#ifndef
+ActiveDocument.Selection.StartOfDocument
+Dim FileName,Name,i
+FileName = ActiveDocument.Name
+i = InStr(FileName, ".")
+if i > 1 then
+	Name = Left(FileName,i-1)
+else
+	Name = "unknownfilename"
+end if
+Name = UCase(Name)
+ActiveDocument.Selection = "#ifndef __" + Name + "_H__"
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = "#define __" + Name + "_H__"
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection.EndOfDocument
+ActiveDocument.Selection = "#endif"
+ActiveDocument.Selection.StartOfDocument
+ActiveDocument.Selection.LineDown dsMove, 2
+End Sub
+
+Sub MyFileHead()
+'DESCRIPTION: 文件注释 标准格式
+Dim d
+d = Date
+ActiveDocument.Selection.StartOfDocument
+FileName = ActiveDocument.Name
+ActiveDocument.Selection = "/**"
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = " * @file      " + FileName
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = "* @date      " & Year(d) & "-" &Month(d) & "-" & Day(d) & " " & Time
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = "* @author    leizi"
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = "* @copyright zhanglei. sleepreading.top"
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = "* @remark    "
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection = "*/"
+ActiveDocument.Selection.NewLine
+ActiveDocument.Selection.LineUp dsMove, 2
+ActiveDocument.Selection.EndOfLine
+End Sub
+
+Sub MyFunctionHead( )
+'DESCRIPTION: 函数注释 标准格式
+ActiveDocument.Selection.StartOfLine dsFirstText
+ActiveDocument.Selection.EndOfLine dsExtend
+Header = ActiveDocument.Selection.Text
+Header = Trim(Header)
+'Get the function return type.
+if Header <> "" then
+    Reti = InStr(Header," ")
+    Loc  = InStr(Header,"(")
+    if Reti < Loc Then
+        RetTp  = Left(Header,Reti)
+        Header = Right(Header,Len(Header) - Reti)
+    End If
+    'Get the function name.
+    Loc  = InStr(Header,"(") - 1
+    Loc2 = InStr(Header,")")
+    if Loc > 0 And Loc2 > 0 then 'make sure there is a ( and a )
+        fcName = Left(Header,Loc)
+        Header = Right(Header,Len(Header) - Len(fcName))
+        'Do we have storage type on the return type?
+        Trim (fcName)
+        If InStr(fcName," ") <> 0 Then
+            retTp  = retTp + Left(fcName,InStr(fcName," "))
+            fcName = Right(fcName,Len(fcName) - InStr(fcName,"   "))
+        End If
+        'Position the cursor one line above the selected text.
+        ActiveDocument.Selection.StartOfLine dsFirstText
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection.LineUp
+        ActiveDocument.Selection = "/**"
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = " * " + fcName
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "* @brief   "
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "* @param   "
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "* @return  " + RetTp
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "* @note    "
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "* @code    "
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "* @endcode "
+        ActiveDocument.Selection.NewLine
+        ActiveDocument.Selection = "*/"
+        ActiveDocument.Selection.LineUp dsMove, 6
+        ActiveDocument.Selection.EndOfLine
+    End  if
+End If
+End Sub
+
+Sub MyCommentSmall()
+'DESCRIPTION: /** * */
+'Begin Recording
+	ActiveDocument.Selection = "/**"
+	ActiveDocument.Selection.NewLine
+	ActiveDocument.Selection = " * "
+	ActiveDocument.Selection.NewLine
+	ActiveDocument.Selection = "*/"
+	ActiveDocument.Selection.LineUp
+	ActiveDocument.Selection.EndOfLine
+'End Recording
+End Sub
+
+Sub MyCommentSmall2()
+'DESCRIPTION: /** */
+'Begin Recording
+	ActiveDocument.Selection = "/**  */"
+	ActiveDocument.Selection.CharLeft dsMove, 3
+'End Recording
+End Sub
+
+Sub MyCutToHead()
+'DESCRIPTION: 剪贴到行首
+    ActiveDocument.Selection.StartOfLine dsFirstText,dsExtend
+	ActiveDocument.Selection.Cut
+End Sub
+
+Sub MyCutToTail()
+'DESCRIPTION: 剪贴到行尾
+    ActiveDocument.Selection.EndOfLine dsExtend
+	ActiveDocument.Selection.Cut
+End Sub
+
+Sub MyLineOpenAbove()
+'DESCRIPTION: 上开一行
+    ActiveDocument.Selection.StartOfLine dsFirstText
+	ActiveDocument.Selection.NewLine
+    ActiveDocument.Selection.LineUp
+End Sub
+
+Sub MyLineOpenBelow()
+'DESCRIPTION: 下开一行
+	ActiveDocument.Selection.EndOfLine
+	ActiveDocument.Selection.NewLine
+End Sub
+
+Sub MyJumpCurLine( )
+'DESCRIPTION: 复制当前行于下一行,定位光标至副本尾部
+	ActiveDocument.Selection.StartOfLine dsFirstText
+	ActiveDocument.Selection.EndOfLine dsExtend
+	ActiveDocument.Selection.Copy
+	ActiveDocument.Selection.CharRight
+	ActiveDocument.Selection.NewLine
+	ActiveDocument.Selection.Paste
+End Sub
+
+Sub MyAddSemicolon()
+'DESCRIPTION: 于段末添加分号;
+	ActiveDocument.Selection.EndOfLine
+	ActiveDocument.Selection = ";"
+End Sub
+
+Sub MyAddBracketWord()
+'DESCRIPTION: 添加括号于字符
+	ActiveDocument.Selection.WordLeft
+	ActiveDocument.Selection = "("
+	ActiveDocument.Selection.WordRight
+	ActiveDocument.Selection = ")"
+End Sub
+
+Sub MyCopyWord()
+'DESCRIPTION: 复制光标下的单词
+	ActiveDocument.Selection.WordLeft
+	ActiveDocument.Selection.WordRight dsExtend
+	ActiveDocument.Selection.Copy
+End Sub
+
+Sub MyPasteWord()
+'DESCRIPTION: 粘贴替换光标下的单词
+	ActiveDocument.Selection.WordLeft
+	ActiveDocument.Selection.WordRight dsExtend
+	ActiveDocument.Selection.Paste
+End Sub
+
+Sub MyAddTMacro()
+'DESCRIPTION: 使用_T包裹字符串.注意:只能替换一行中的第一个字符串
+    Dim myArray,s
+    ActiveDocument.Selection.SelectLine
+    s = ActiveDocument.Selection.Text
+    If Len(s) > 1 Then
+        myArray = Split(s, Chr(34), -1, 1)
+        If UBound(myArray) = 2 Then
+            ActiveDocument.Selection.Text = myArray(0) & "_T(" & Chr(34) & myArray(1) & Chr(34) & ")" & myArray(2)
+            ActiveDocument.Selection.LineUp
+        End If
+    End If
+    ActiveDocument.Selection.EndOfLine
+End Sub
+
+Sub MyToggleLUCase
+'DESCRIPTION: 大写或小写光标所在处单词
+	Dim s,t,i,ret
+    ret = False '字符串含有小写字母?
+    ActiveDocument.Selection.WordLeft
+	ActiveDocument.Selection.WordRight dsExtend
+	s = ActiveDocument.Selection.Text
+    If Len(s)<1 Then
+        Exit Sub
+    End If
+    For i = 1 To Len(s)
+        If Asc(Mid(s,i,1))>=97 And Asc(Mid(s,i,1))<=122 Then
+            ret = True
+            Exit For
+        End If
+    Next
+    If ret=True Then
+        t = Ucase(s)
+    Else
+        t = Lcase(s)
+    End If
+    ActiveDocument.Selection.Text = t
+End Sub
