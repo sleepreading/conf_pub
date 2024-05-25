@@ -2,6 +2,8 @@
 Win7 &amp; CentOS configuration scripts
 configurations for professional tools, such as Visual Studio, Source Insight, Sublime Text, bash, tmux, Vim...
 
+It's old, use settings instead!
+
 *sorry for my poor english!*
 
 
